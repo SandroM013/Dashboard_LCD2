@@ -1,0 +1,696 @@
+match_id,rival,rival_confederation,peru_score,rival_score,peru_awarded_score,rival_awarded_score,result,shootout_result,awarded_result,tournament_name,tournament_type,official,stadium,city,country,elevation,peru_condition,coach,coach_nationality,date
+M0001,Uruguay,CONMEBOL,0,4,0,4,L,,L,Sudamericano 1927,Copa América/Sudamericano,True,Estadio Nacional de Perú,Lima,Peru,154,home,Pedro Olivieri,Uruguay,01/11/1927
+M0002,Bolivia,CONMEBOL,3,2,3,2,W,,W,Sudamericano 1927,Copa América/Sudamericano,True,Estadio Nacional de Perú,Lima,Peru,154,home,Pedro Olivieri,Uruguay,13/11/1927
+M0003,Argentina,CONMEBOL,1,5,1,5,L,,L,Sudamericano 1927,Copa América/Sudamericano,True,Estadio Nacional de Perú,Lima,Peru,154,home,Pedro Olivieri,Uruguay,27/11/1927
+M0004,Argentina,CONMEBOL,0,3,0,3,L,,L,Sudamericano 1929,Copa América/Sudamericano,True,Estadio Viejo Gasómetro,Buenos Aires,Argentina,25,away,Julio Borrelli,Uruguay,03/11/1929
+M0005,Uruguay,CONMEBOL,1,4,1,4,L,,L,Sudamericano 1929,Copa América/Sudamericano,True,Estadio Alvear y Tagle,Buenos Aires,Argentina,25,neutral,Julio Borrelli,Uruguay,11/11/1929
+M0006,Paraguay,CONMEBOL,0,5,0,5,L,,L,Sudamericano 1929,Copa América/Sudamericano,True,Estadio La Doble Visera,Buenos Aires,Argentina,25,neutral,Julio Borrelli,Uruguay,16/11/1929
+M0007,Romania,UEFA,1,3,1,3,L,,L,FIFA World Cup 1930,FIFA World Cup,True,Estadio Pocitos,Montevideo,Uruguay,43,neutral,Francisco Bru,Spain,14/07/1930
+M0008,Uruguay,CONMEBOL,0,1,0,1,L,,L,FIFA World Cup 1930,FIFA World Cup,True,Estadio Centenario (Montevideo),Montevideo,Uruguay,43,away,Francisco Bru,Spain,18/07/1930
+M0009,Uruguay,CONMEBOL,0,1,0,1,L,,L,Sudamericano 1935,Copa América/Sudamericano,True,Estadio Nacional de Perú,Lima,Peru,154,home,Telmo Carbajo,Peru,13/01/1935
+M0010,Argentina,CONMEBOL,1,4,1,4,L,,L,Sudamericano 1935,Copa América/Sudamericano,True,Estadio Nacional de Perú,Lima,Peru,154,home,Telmo Carbajo,Peru,20/01/1935
+M0011,Chile,CONMEBOL,1,0,1,0,W,,W,Sudamericano 1935,Copa América/Sudamericano,True,Estadio Nacional de Perú,Lima,Peru,154,home,Telmo Carbajo,Peru,26/01/1935
+M0012,Finland,UEFA,7,3,7,3,W,,W,Olympic Games 1936,Olympic Games,True,Hertha-BSC-Platz,Berlin,Germany,34,neutral,Alberto Denegri,Peru,06/08/1936
+M0013,Austria,UEFA,4,2,4,2,W,,L,Olympic Games 1936,Olympic Games,True,Hertha-BSC-Platz,Berlin,Germany,34,neutral,Alberto Denegri,Peru,09/08/1936
+M0014,Brazil,CONMEBOL,2,3,2,3,L,,L,Sudamericano 1937,Copa América/Sudamericano,True,Estadio Viejo Gasómetro,Buenos Aires,Argentina,25,neutral,Alberto Denegri,Peru,27/12/1936
+M0015,Uruguay,CONMEBOL,2,4,2,4,L,,L,Sudamericano 1937,Copa América/Sudamericano,True,Estadio Viejo Gasómetro,Buenos Aires,Argentina,25,neutral,Alberto Denegri,Peru,06/01/1937
+M0016,Argentina,CONMEBOL,0,1,0,1,L,,L,Sudamericano 1937,Copa América/Sudamericano,True,Estadio Viejo Gasómetro,Buenos Aires,Argentina,25,away,Alberto Denegri,Peru,16/01/1937
+M0017,Chile,CONMEBOL,2,2,2,2,D,,D,Sudamericano 1937,Copa América/Sudamericano,True,Estadio Viejo Gasómetro,Buenos Aires,Argentina,25,neutral,Alberto Denegri,Peru,21/01/1937
+M0018,Paraguay,CONMEBOL,1,0,1,0,W,,W,Sudamericano 1937,Copa América/Sudamericano,True,Estadio Alvear y Tagle,Buenos Aires,Argentina,25,neutral,Alberto Denegri,Peru,24/01/1937
+M0019,Colombia,CONMEBOL,4,2,4,2,W,,W,Juegos Bolivarianos 1938,Bolivarianos,True,Estadio Alfonso López Pumarejo,Bogota,Colombia,2582,away,Jack Greenwell,England,08/08/1938
+M0020,Ecuador,CONMEBOL,9,1,9,1,W,,W,Juegos Bolivarianos 1938,Bolivarianos,True,Estadio Alfonso López Pumarejo,Bogota,Colombia,2582,neutral,Jack Greenwell,England,11/08/1938
+M0021,Bolivia,CONMEBOL,3,0,3,0,W,,W,Juegos Bolivarianos 1938,Bolivarianos,True,Estadio Alfonso López Pumarejo,Bogota,Colombia,2582,neutral,Jack Greenwell,England,14/08/1938
+M0022,Venezuela,CONMEBOL,2,1,2,1,W,,W,Juegos Bolivarianos 1938,Bolivarianos,True,Estadio Alfonso López Pumarejo,Bogota,Colombia,2582,neutral,Jack Greenwell,England,17/08/1938
+M0023,Ecuador,CONMEBOL,5,2,5,2,W,,W,Sudamericano 1939,Copa América/Sudamericano,True,Estadio Nacional de Perú,Lima,Peru,154,home,Jack Greenwell,England,15/01/1939
+M0024,Chile,CONMEBOL,3,1,3,1,W,,W,Sudamericano 1939,Copa América/Sudamericano,True,Estadio Nacional de Perú,Lima,Peru,154,home,Jack Greenwell,England,22/01/1939
+M0025,Paraguay,CONMEBOL,3,0,3,0,W,,W,Sudamericano 1939,Copa América/Sudamericano,True,Estadio Nacional de Perú,Lima,Peru,154,home,Jack Greenwell,England,29/01/1939
+M0026,Uruguay,CONMEBOL,2,1,2,1,W,,W,Sudamericano 1939,Copa América/Sudamericano,True,Estadio Nacional de Perú,Lima,Peru,154,home,Jack Greenwell,England,12/02/1939
+M0027,Argentina,CONMEBOL,1,1,1,1,D,,D,Copa Roque Sáenz Peña,Copa Roque Sáenz Peña,False,Estadio Nacional de Perú,Lima,Peru,154,home,Domingo Arrillaga,Spain,19/01/1941
+M0028,Argentina,CONMEBOL,1,1,1,1,D,,D,Copa Roque Sáenz Peña,Copa Roque Sáenz Peña,False,Estadio Nacional de Perú,Lima,Peru,154,home,Domingo Arrillaga,Spain,26/01/1941
+M0029,Argentina,CONMEBOL,0,3,0,3,L,,L,Copa Roque Sáenz Peña,Copa Roque Sáenz Peña,False,Estadio Nacional de Perú,Lima,Peru,154,home,Domingo Arrillaga,Spain,29/01/1941
+M0030,Chile,CONMEBOL,0,1,0,1,L,,L,Sudamericano 1941,Copa América/Sudamericano,True,Estadio Nacional de Chile,Santiago,Chile,520,away,Domingo Arrillaga,Spain,09/02/1941
+M0031,Argentina,CONMEBOL,1,2,1,2,L,,L,Sudamericano 1941,Copa América/Sudamericano,True,Estadio Nacional de Chile,Santiago,Chile,520,neutral,Domingo Arrillaga,Spain,12/02/1941
+M0032,Ecuador,CONMEBOL,4,0,4,0,W,,W,Sudamericano 1941,Copa América/Sudamericano,True,Estadio Nacional de Chile,Santiago,Chile,520,neutral,Domingo Arrillaga,Spain,23/02/1941
+M0033,Uruguay,CONMEBOL,0,2,0,2,L,,L,Sudamericano 1941,Copa América/Sudamericano,True,Estadio Nacional de Chile,Santiago,Chile,520,neutral,Domingo Arrillaga,Spain,26/02/1941
+M0034,Paraguay,CONMEBOL,1,1,1,1,D,,D,Sudamericano 1942,Copa América/Sudamericano,True,Estadio Centenario (Montevideo),Montevideo,Uruguay,43,neutral,Ángel Fernández,Argentina,18/01/1942
+M0035,Brazil,CONMEBOL,1,2,1,2,L,,L,Sudamericano 1942,Copa América/Sudamericano,True,Estadio Centenario (Montevideo),Montevideo,Uruguay,43,neutral,Ángel Fernández,Argentina,21/01/1942
+M0036,Argentina,CONMEBOL,1,3,1,3,L,,L,Sudamericano 1942,Copa América/Sudamericano,True,Estadio Centenario (Montevideo),Montevideo,Uruguay,43,neutral,Ángel Fernández,Argentina,25/01/1942
+M0037,Ecuador,CONMEBOL,2,1,2,1,W,,W,Sudamericano 1942,Copa América/Sudamericano,True,Estadio Centenario (Montevideo),Montevideo,Uruguay,43,neutral,Ángel Fernández,Argentina,28/01/1942
+M0038,Uruguay,CONMEBOL,0,3,0,3,L,,L,Sudamericano 1942,Copa América/Sudamericano,True,Estadio Centenario (Montevideo),Montevideo,Uruguay,43,away,Ángel Fernández,Argentina,01/02/1942
+M0039,Chile,CONMEBOL,0,0,0,0,D,,D,Sudamericano 1942,Copa América/Sudamericano,True,Estadio Centenario (Montevideo),Montevideo,Uruguay,43,neutral,Ángel Fernández,Argentina,07/02/1942
+M0040,Paraguay,CONMEBOL,2,2,2,2,D,,D,Sudamericano 1947,Copa América/Sudamericano,True,Estadio George Capwell,Guayaquil,Ecuador,4,neutral,José Arana,Peru,06/12/1947
+M0041,Chile,CONMEBOL,1,2,1,2,L,,L,Sudamericano 1947,Copa América/Sudamericano,True,Estadio George Capwell,Guayaquil,Ecuador,4,neutral,José Arana,Peru,09/12/1947
+M0042,Argentina,CONMEBOL,2,3,2,3,L,,L,Sudamericano 1947,Copa América/Sudamericano,True,Estadio George Capwell,Guayaquil,Ecuador,4,neutral,José Arana,Peru,11/12/1947
+M0043,Ecuador,CONMEBOL,0,0,0,0,D,,D,Sudamericano 1947,Copa América/Sudamericano,True,Estadio George Capwell,Guayaquil,Ecuador,4,away,José Arana,Peru,20/12/1947
+M0044,Colombia,CONMEBOL,5,1,5,1,W,,W,Sudamericano 1947,Copa América/Sudamericano,True,Estadio George Capwell,Guayaquil,Ecuador,4,neutral,José Arana,Peru,23/12/1947
+M0045,Uruguay,CONMEBOL,0,1,0,1,L,,L,Sudamericano 1947,Copa América/Sudamericano,True,Estadio George Capwell,Guayaquil,Ecuador,4,neutral,José Arana,Peru,25/12/1947
+M0046,Bolivia,CONMEBOL,2,0,2,0,W,,W,Sudamericano 1947,Copa América/Sudamericano,True,Estadio George Capwell,Guayaquil,Ecuador,4,neutral,José Arana,Peru,27/12/1947
+M0047,Colombia,CONMEBOL,4,0,4,0,W,,W,Sudamericano 1949,Copa América/Sudamericano,True,Estádio São Januário,Rio de Janeiro,Brazil,11,neutral,Arturo Fernández,Peru,10/04/1949
+M0048,Paraguay,CONMEBOL,1,3,1,3,L,,L,Sudamericano 1949,Copa América/Sudamericano,True,Estádio São Januário,Rio de Janeiro,Brazil,11,neutral,Arturo Fernández,Peru,13/04/1949
+M0049,Ecuador,CONMEBOL,4,0,4,0,W,,W,Sudamericano 1949,Copa América/Sudamericano,True,Estádio São Januário,Rio de Janeiro,Brazil,11,neutral,Arturo Fernández,Peru,20/04/1949
+M0050,Brazil,CONMEBOL,1,7,1,7,L,,L,Sudamericano 1949,Copa América/Sudamericano,True,Estádio São Januário,Rio de Janeiro,Brazil,11,away,Arturo Fernández,Peru,24/04/1949
+M0051,Bolivia,CONMEBOL,3,0,3,0,W,,W,Sudamericano 1949,Copa América/Sudamericano,True,Estadio Vila Belmiro,Santos,Brazil,2,neutral,Arturo Fernández,Peru,27/04/1949
+M0052,Chile,CONMEBOL,3,0,3,0,W,,W,Sudamericano 1949,Copa América/Sudamericano,True,Estádio do Pacaembu,Sao Paulo,Brazil,772,neutral,Arturo Fernández,Peru,30/04/1949
+M0053,Uruguay,CONMEBOL,4,3,4,3,W,,W,Sudamericano 1949,Copa América/Sudamericano,True,Estadio General Severiano,Rio de Janeiro,Brazil,11,neutral,Arturo Fernández,Peru,04/05/1949
+M0054,Panama,CONCACAF,7,1,7,1,W,,W,Panamericano 1952,Panamericanos,True,Estadio Nacional de Chile,Santiago,Chile,520,neutral,Alfonso Huapaya,Peru,23/03/1952
+M0055,Uruguay,CONMEBOL,2,5,2,5,L,,L,Panamericano 1952,Panamericanos,True,Estadio Nacional de Chile,Santiago,Chile,520,neutral,Alfonso Huapaya,Peru,30/03/1952
+M0056,Chile,CONMEBOL,2,3,2,3,L,,L,Panamericano 1952,Panamericanos,True,Estadio Nacional de Chile,Santiago,Chile,520,away,Alfonso Huapaya,Peru,02/04/1952
+M0057,Brazil,CONMEBOL,0,0,0,0,D,,D,Panamericano 1952,Panamericanos,True,Estadio Nacional de Chile,Santiago,Chile,520,neutral,Alfonso Huapaya,Peru,10/04/1952
+M0058,Mexico,CONCACAF,3,0,3,0,W,,W,Panamericano 1952,Panamericanos,True,Estadio Nacional de Chile,Santiago,Chile,520,neutral,Alfonso Huapaya,Peru,20/04/1952
+M0059,Bolivia,CONMEBOL,0,1,0,1,L,,L,Sudamericano 1953,Copa América/Sudamericano,True,Estadio Nacional de Perú,Lima,Peru,154,home,William Cook,Northern Ireland,22/02/1953
+M0060,Ecuador,CONMEBOL,1,0,1,0,W,,W,Sudamericano 1953,Copa América/Sudamericano,True,Estadio Nacional de Perú,Lima,Peru,154,home,William Cook,Northern Ireland,28/02/1953
+M0061,Chile,CONMEBOL,0,0,0,0,D,,D,Sudamericano 1953,Copa América/Sudamericano,True,Estadio Nacional de Perú,Lima,Peru,154,home,William Cook,Northern Ireland,04/03/1953
+M0062,Paraguay,CONMEBOL,2,2,2,2,D,,W,Sudamericano 1953,Copa América/Sudamericano,True,Estadio Nacional de Perú,Lima,Peru,154,home,William Cook,Northern Ireland,08/03/1953
+M0063,Brazil,CONMEBOL,1,0,1,0,W,,W,Sudamericano 1953,Copa América/Sudamericano,True,Estadio Nacional de Perú,Lima,Peru,154,home,William Cook,Northern Ireland,19/03/1953
+M0064,Uruguay,CONMEBOL,0,3,0,3,L,,L,Sudamericano 1953,Copa América/Sudamericano,True,Estadio Nacional de Perú,Lima,Peru,154,home,William Cook,Northern Ireland,28/03/1953
+M0065,Chile,CONMEBOL,1,2,1,2,L,,L,Copa del Pacífico 1953,Copa del Pacífico,False,Estadio Nacional de Perú,Lima,Peru,154,home,Ángel Fernández,Argentina,26/07/1953
+M0066,Chile,CONMEBOL,5,0,5,0,W,,W,Copa del Pacífico 1953,Copa del Pacífico,False,Estadio Nacional de Perú,Lima,Peru,154,home,Ángel Fernández,Argentina,28/07/1953
+M0067,Chile,CONMEBOL,1,2,1,2,L,,L,Copa del Pacífico 1954,Copa del Pacífico,False,Estadio Nacional de Chile,Santiago,Chile,520,away,Juan Valdivieso,Peru,17/09/1954
+M0068,Chile,CONMEBOL,4,2,4,2,W,,W,Copa del Pacífico 1954,Copa del Pacífico,False,Estadio Nacional de Chile,Santiago,Chile,520,away,Juan Valdivieso,Peru,19/09/1954
+M0069,Chile,CONMEBOL,4,5,4,5,L,,L,Sudamericano 1955,Copa América/Sudamericano,True,Estadio Nacional de Chile,Santiago,Chile,520,away,Juan Valdivieso,Peru,06/03/1955
+M0070,Ecuador,CONMEBOL,4,2,4,2,W,,W,Sudamericano 1955,Copa América/Sudamericano,True,Estadio Nacional de Chile,Santiago,Chile,520,neutral,Juan Valdivieso,Peru,13/03/1955
+M0071,Argentina,CONMEBOL,2,2,2,2,D,,D,Sudamericano 1955,Copa América/Sudamericano,True,Estadio Nacional de Chile,Santiago,Chile,520,neutral,Juan Valdivieso,Peru,16/03/1955
+M0072,Paraguay,CONMEBOL,1,1,1,1,D,,D,Sudamericano 1955,Copa América/Sudamericano,True,Estadio Nacional de Chile,Santiago,Chile,520,neutral,Juan Valdivieso,Peru,23/03/1955
+M0073,Uruguay,CONMEBOL,2,1,2,1,W,,W,Sudamericano 1955,Copa América/Sudamericano,True,Estadio Nacional de Chile,Santiago,Chile,520,neutral,Juan Valdivieso,Peru,30/03/1955
+M0074,Argentina,CONMEBOL,1,2,1,2,L,,L,Sudamericano 1956,Copa América/Sudamericano,True,Estadio Centenario (Montevideo),Montevideo,Uruguay,43,neutral,Arturo Fernández,Peru,22/01/1956
+M0075,Uruguay,CONMEBOL,0,2,0,2,L,,L,Sudamericano 1956,Copa América/Sudamericano,True,Estadio Centenario (Montevideo),Montevideo,Uruguay,43,away,Arturo Fernández,Peru,28/01/1956
+M0076,Brazil,CONMEBOL,1,2,1,2,L,,L,Sudamericano 1956,Copa América/Sudamericano,True,Estadio Centenario (Montevideo),Montevideo,Uruguay,43,neutral,Arturo Fernández,Peru,01/02/1956
+M0077,Paraguay,CONMEBOL,1,1,1,1,D,,D,Sudamericano 1956,Copa América/Sudamericano,True,Estadio Centenario (Montevideo),Montevideo,Uruguay,43,neutral,Arturo Fernández,Peru,05/02/1956
+M0078,Chile,CONMEBOL,3,4,3,4,L,,L,Sudamericano 1956,Copa América/Sudamericano,True,Estadio Centenario (Montevideo),Montevideo,Uruguay,43,neutral,Arturo Fernández,Peru,09/02/1956
+M0079,Argentina,CONMEBOL,0,0,0,0,D,,D,Panamericano 1956,Panamericanos,True,Estadio Olímpico Universitario,Mexico City,Mexico,2240,neutral,Arturo Fernández,Peru,28/02/1956
+M0080,Mexico,CONCACAF,2,0,2,0,W,,W,Panamericano 1956,Panamericanos,True,Estadio Olímpico Universitario,Mexico City,Mexico,2240,away,Arturo Fernández,Peru,04/03/1956
+M0081,Brazil,CONMEBOL,0,1,0,1,L,,L,Panamericano 1956,Panamericanos,True,Estadio Olímpico Universitario,Mexico City,Mexico,2240,neutral,Arturo Fernández,Peru,06/03/1956
+M0082,Chile,CONMEBOL,2,2,2,2,D,,D,Panamericano 1956,Panamericanos,True,Estadio Olímpico Universitario,Mexico City,Mexico,2240,neutral,Arturo Fernández,Peru,15/03/1956
+M0083,Costa Rica,CONCACAF,2,4,2,4,L,,L,Panamericano 1956,Panamericanos,True,Estadio Olímpico Universitario,Mexico City,Mexico,2240,neutral,Arturo Fernández,Peru,17/03/1956
+M0084,Ecuador,CONMEBOL,2,1,2,1,W,,W,Sudamericano 1957,Copa América/Sudamericano,True,Estadio Nacional de Perú,Lima,Peru,154,home,György Orth,Hungary,10/03/1957
+M0085,Chile,CONMEBOL,1,0,1,0,W,,W,Sudamericano 1957,Copa América/Sudamericano,True,Estadio Nacional de Perú,Lima,Peru,154,home,György Orth,Hungary,16/03/1957
+M0086,Uruguay,CONMEBOL,3,5,3,5,L,,L,Sudamericano 1957,Copa América/Sudamericano,True,Estadio Nacional de Perú,Lima,Peru,154,home,György Orth,Hungary,23/03/1957
+M0087,Colombia,CONMEBOL,4,1,4,1,W,,W,Sudamericano 1957,Copa América/Sudamericano,True,Estadio Nacional de Perú,Lima,Peru,154,home,György Orth,Hungary,27/03/1957
+M0088,Brazil,CONMEBOL,0,1,0,1,L,,L,Sudamericano 1957,Copa América/Sudamericano,True,Estadio Nacional de Perú,Lima,Peru,154,home,György Orth,Hungary,31/03/1957
+M0089,Argentina,CONMEBOL,2,1,2,1,W,,W,Sudamericano 1957,Copa América/Sudamericano,True,Estadio Nacional de Perú,Lima,Peru,154,home,György Orth,Hungary,06/04/1957
+M0090,Argentina,CONMEBOL,1,4,1,4,L,,L,Amistoso,Amistoso,False,Estadio Nacional de Perú,Lima,Peru,154,home,György Orth,Hungary,09/04/1957
+M0091,Brazil,CONMEBOL,1,1,1,1,D,,D,FIFA World Cup Qualifiers 1958,FIFA World Cup Qualifiers,True,Estadio Nacional de Perú,Lima,Peru,154,home,György Orth,Hungary,13/04/1957
+M0092,Brazil,CONMEBOL,0,1,0,1,L,,L,FIFA World Cup Qualifiers 1958,FIFA World Cup Qualifiers,True,Estádio do Maracanã,Rio de Janeiro,Brazil,11,away,György Orth,Hungary,21/04/1957
+M0093,Brazil,CONMEBOL,2,2,2,2,D,,D,Sudamericano 1959,Copa América/Sudamericano,True,Estadio Monumental Antonio Vespucio Liberti,Buenos Aires,Argentina,25,neutral,György Orth,Hungary,10/03/1959
+M0094,Uruguay,CONMEBOL,5,3,5,3,W,,W,Sudamericano 1959,Copa América/Sudamericano,True,Estadio Monumental Antonio Vespucio Liberti,Buenos Aires,Argentina,25,neutral,György Orth,Hungary,14/03/1959
+M0095,Argentina,CONMEBOL,1,3,1,3,L,,L,Sudamericano 1959,Copa América/Sudamericano,True,Estadio Monumental Antonio Vespucio Liberti,Buenos Aires,Argentina,25,away,György Orth,Hungary,18/03/1959
+M0096,Chile,CONMEBOL,1,1,1,1,D,,D,Sudamericano 1959,Copa América/Sudamericano,True,Estadio Monumental Antonio Vespucio Liberti,Buenos Aires,Argentina,25,neutral,György Orth,Hungary,21/03/1959
+M0097,Bolivia,CONMEBOL,0,0,0,0,D,,D,Sudamericano 1959,Copa América/Sudamericano,True,Estadio Monumental Antonio Vespucio Liberti,Buenos Aires,Argentina,25,neutral,György Orth,Hungary,29/03/1959
+M0098,Paraguay,CONMEBOL,1,2,1,2,L,,L,Sudamericano 1959,Copa América/Sudamericano,True,Estadio Monumental Antonio Vespucio Liberti,Buenos Aires,Argentina,25,neutral,György Orth,Hungary,02/04/1959
+M0099,England,UEFA,4,1,4,1,W,,W,Amistoso,Amistoso,False,Estadio Nacional de Perú,Lima,Peru,154,home,György Orth,Hungary,17/05/1959
+M0100,Spain,UEFA,1,3,1,3,L,,L,Amistoso,Amistoso,False,Estadio Nacional de Perú,Lima,Peru,154,home,György Orth,Hungary,10/07/1960
+M0101,Chile,CONMEBOL,2,5,2,5,L,,L,Amistoso,Amistoso,False,Estadio Nacional de Chile,Santiago,Chile,520,away,Marcos Calderón,Peru,19/03/1961
+M0102,Colombia,CONMEBOL,0,1,0,1,L,,L,FIFA World Cup Qualifiers 1962,FIFA World Cup Qualifiers,True,Estadio El Campín,Bogota,Colombia,2582,away,Marcos Calderón,Peru,30/04/1961
+M0103,Colombia,CONMEBOL,1,1,1,1,D,,D,FIFA World Cup Qualifiers 1962,FIFA World Cup Qualifiers,True,Estadio Nacional de Perú,Lima,Peru,154,home,Marcos Calderón,Peru,07/05/1961
+M0104,England,UEFA,0,4,0,4,L,,L,Amistoso,Amistoso,False,Estadio Nacional de Perú,Lima,Peru,154,home,Jaime de Almeida,Brazil,20/05/1962
+M0105,Brazil,CONMEBOL,0,1,0,1,L,,L,Sudamericano 1963,Copa América/Sudamericano,True,Estadio Félix Capriles,Cochabamba,Bolivia,2558,neutral,Juan Valdivieso,Peru,10/03/1963
+M0106,Argentina,CONMEBOL,2,1,2,1,W,,W,Sudamericano 1963,Copa América/Sudamericano,True,Estadio Félix Capriles,Cochabamba,Bolivia,2558,neutral,Juan Valdivieso,Peru,13/03/1963
+M0107,Ecuador,CONMEBOL,2,1,2,1,W,,W,Sudamericano 1963,Copa América/Sudamericano,True,Estadio Hernando Siles,La Paz,Bolivia,3625,neutral,Juan Valdivieso,Peru,17/03/1963
+M0108,Bolivia,CONMEBOL,2,3,2,3,L,,L,Sudamericano 1963,Copa América/Sudamericano,True,Estadio Hernando Siles,La Paz,Bolivia,3625,away,Juan Valdivieso,Peru,21/03/1963
+M0109,Colombia,CONMEBOL,1,1,1,1,D,,D,Sudamericano 1963,Copa América/Sudamericano,True,Estadio Hernando Siles,La Paz,Bolivia,3625,neutral,Juan Valdivieso,Peru,24/03/1963
+M0110,Paraguay,CONMEBOL,1,4,1,4,L,,L,Sudamericano 1963,Copa América/Sudamericano,True,Estadio Félix Capriles,Cochabamba,Bolivia,2558,neutral,Juan Valdivieso,Peru,27/03/1963
+M0111,Paraguay,CONMEBOL,0,1,0,1,L,,L,Amistoso,Amistoso,False,Estadio Nacional de Perú,Lima,Peru,154,home,Marcos Calderón,Peru,03/04/1965
+M0112,Chile,CONMEBOL,1,4,1,4,L,,L,Copa del Pacífico 1965,Copa del Pacífico,False,Estadio Nacional de Chile,Santiago,Chile,520,away,Marcos Calderón,Peru,15/04/1965
+M0113,Chile,CONMEBOL,0,1,0,1,L,,L,Copa del Pacífico 1965,Copa del Pacífico,False,Estadio Nacional de Perú,Lima,Peru,154,home,Marcos Calderón,Peru,28/04/1965
+M0114,Venezuela,CONMEBOL,1,0,1,0,W,,W,FIFA World Cup Qualifiers 1966,FIFA World Cup Qualifiers,True,Estadio Nacional de Perú,Lima,Peru,154,home,Marcos Calderón,Peru,16/05/1965
+M0115,Venezuela,CONMEBOL,6,3,6,3,W,,W,FIFA World Cup Qualifiers 1966,FIFA World Cup Qualifiers,True,Estadio Olímpico UCV,Caracas,Venezuela,1037,away,Marcos Calderón,Peru,02/06/1965
+M0116,Uruguay,CONMEBOL,0,1,0,1,L,,L,FIFA World Cup Qualifiers 1966,FIFA World Cup Qualifiers,True,Estadio Nacional de Perú,Lima,Peru,154,home,Marcos Calderón,Peru,06/06/1965
+M0117,Uruguay,CONMEBOL,1,2,1,2,L,,L,FIFA World Cup Qualifiers 1966,FIFA World Cup Qualifiers,True,Estadio Centenario (Montevideo),Montevideo,Uruguay,43,away,Marcos Calderón,Peru,13/06/1965
+M0118,Brazil,CONMEBOL,0,4,0,4,L,,L,Amistoso,Amistoso,False,Estádio do Morumbi,Sao Paulo,Brazil,772,away,José Gomes Nogueira,Brazil,04/06/1966
+M0119,Brazil,CONMEBOL,1,3,1,3,L,,L,Amistoso,Amistoso,False,Estádio do Maracanã,Rio de Janeiro,Brazil,11,away,José Gomes Nogueira,Brazil,08/06/1966
+M0120,Uruguay,CONMEBOL,0,1,0,1,L,,L,Amistoso,Amistoso,False,Estadio Nacional de Perú,Lima,Peru,154,home,Marcos Calderón,Peru,28/07/1967
+M0121,Japan,AFC,1,0,1,0,W,,W,Amistoso,Amistoso,False,Estadio Nacional de Perú,Lima,Peru,154,home,Marcos Calderón,Peru,28/07/1967
+M0122,Japan,AFC,0,0,0,0,D,,D,Amistoso,Amistoso,False,Estadio Nacional de Perú,Lima,Peru,154,home,Marcos Calderón,Peru,30/07/1967
+M0123,Uruguay,CONMEBOL,1,2,1,2,L,,L,Amistoso,Amistoso,False,Estadio Nacional de Perú,Lima,Peru,154,home,Marcos Calderón,Peru,30/07/1967
+M0124,Brazil,CONMEBOL,3,4,3,4,L,,L,Amistoso,Amistoso,False,Estadio Nacional de Perú,Lima,Peru,154,home,Didí,Brazil,14/07/1968
+M0125,Brazil,CONMEBOL,0,4,0,4,L,,L,Amistoso,Amistoso,False,Estadio Nacional de Perú,Lima,Peru,154,home,Didí,Brazil,17/07/1968
+M0126,Chile,CONMEBOL,1,2,1,2,L,,L,Copa del Pacífico 1968,Copa del Pacífico,False,Estadio Nacional de Perú,Lima,Peru,154,home,Didí,Brazil,18/08/1968
+M0127,Chile,CONMEBOL,0,0,0,0,D,,D,Copa del Pacífico 1968,Copa del Pacífico,False,Estadio Nacional de Perú,Lima,Peru,154,home,Didí,Brazil,21/08/1968
+M0128,Argentina,CONMEBOL,2,2,2,2,D,,D,Amistoso,Amistoso,False,Estadio Nacional de Perú,Lima,Peru,154,home,Didí,Brazil,29/08/1968
+M0129,Argentina,CONMEBOL,1,1,1,1,D,,D,Amistoso,Amistoso,False,Estadio Nacional de Perú,Lima,Peru,154,home,Didí,Brazil,01/09/1968
+M0130,Mexico,CONCACAF,3,3,3,3,D,,D,Amistoso,Amistoso,False,Estadio Nacional de Perú,Lima,Peru,154,home,Didí,Brazil,20/10/1968
+M0131,Brazil,CONMEBOL,1,2,1,2,L,,L,Amistoso,Amistoso,False,Estádio Beira-Rio,Porto Alegre,Brazil,10,away,Didí,Brazil,07/04/1969
+M0132,Brazil,CONMEBOL,2,3,2,3,L,,L,Amistoso,Amistoso,False,Estádio do Maracanã,Rio de Janeiro,Brazil,11,away,Didí,Brazil,09/04/1969
+M0133,Colombia,CONMEBOL,3,1,3,1,W,,W,Amistoso,Amistoso,False,Estadio El Campín,Bogota,Colombia,2582,away,Didí,Brazil,08/05/1969
+M0134,El Salvador,CONCACAF,4,1,4,1,W,,W,Amistoso,Amistoso,False,Estadio Nacional Jorge 'Mágico' González,San Salvador,El Salvador,670,away,Didí,Brazil,14/05/1969
+M0135,Mexico,CONCACAF,1,0,1,0,W,,W,Amistoso,Amistoso,False,Estadio Azteca,Mexico City,Mexico,2240,away,Didí,Brazil,20/05/1969
+M0136,Mexico,CONCACAF,0,3,0,3,L,,L,Amistoso,Amistoso,False,Estadio León,Leon,Mexico,1800,away,Didí,Brazil,22/05/1969
+M0137,Colombia,CONMEBOL,1,1,1,1,D,,D,Amistoso,Amistoso,False,Estadio Nacional de Perú,Lima,Peru,154,home,Didí,Brazil,18/06/1969
+M0138,Uruguay,CONMEBOL,1,0,1,0,W,,W,Amistoso,Amistoso,False,Estadio Nacional de Perú,Lima,Peru,154,home,Didí,Brazil,27/06/1969
+M0139,Paraguay,CONMEBOL,2,1,2,1,W,,W,Amistoso,Amistoso,False,Estadio Nacional de Perú,Lima,Peru,154,home,Didí,Brazil,09/07/1969
+M0140,Paraguay,CONMEBOL,2,1,2,1,W,,W,Amistoso,Amistoso,False,Estadio Nacional de Perú,Lima,Peru,154,home,Didí,Brazil,18/07/1969
+M0141,Argentina,CONMEBOL,1,0,1,0,W,,W,FIFA World Cup Qualifiers 1970,FIFA World Cup Qualifiers,True,Estadio Nacional de Perú,Lima,Peru,154,home,Didí,Brazil,03/08/1969
+M0142,Bolivia,CONMEBOL,1,2,1,2,L,,L,FIFA World Cup Qualifiers 1970,FIFA World Cup Qualifiers,True,Estadio Hernando Siles,La Paz,Bolivia,3625,away,Didí,Brazil,10/08/1969
+M0143,Bolivia,CONMEBOL,3,0,3,0,W,,W,FIFA World Cup Qualifiers 1970,FIFA World Cup Qualifiers,True,Estadio Nacional de Perú,Lima,Peru,154,home,Didí,Brazil,17/08/1969
+M0144,Argentina,CONMEBOL,2,2,2,2,D,,D,FIFA World Cup Qualifiers 1970,FIFA World Cup Qualifiers,True,La Bombonera,Buenos Aires,Argentina,25,away,Didí,Brazil,31/08/1969
+M0145,Czechoslovakia,UEFA,0,2,0,2,L,,L,Amistoso,Amistoso,False,Estadio Nacional de Perú,Lima,Peru,154,home,Didí,Brazil,04/02/1970
+M0146,Czechoslovakia,UEFA,2,1,2,1,W,,W,Amistoso,Amistoso,False,Estadio Nacional de Perú,Lima,Peru,154,home,Didí,Brazil,07/02/1970
+M0147,Romania,UEFA,1,1,1,1,D,,D,Amistoso,Amistoso,False,Estadio Nacional de Perú,Lima,Peru,154,home,Didí,Brazil,09/02/1970
+M0148,USSR,UEFA,0,0,0,0,D,,D,Amistoso,Amistoso,False,Estadio Nacional de Perú,Lima,Peru,154,home,Didí,Brazil,14/02/1970
+M0149,USSR,UEFA,0,2,0,2,L,,L,Amistoso,Amistoso,False,Estadio Nacional de Perú,Lima,Peru,154,home,Didí,Brazil,20/02/1970
+M0150,Bulgaria,UEFA,1,3,1,3,L,,L,Amistoso,Amistoso,False,Estadio Nacional de Perú,Lima,Peru,154,home,Didí,Brazil,21/02/1970
+M0151,Bulgaria,UEFA,5,3,5,3,W,,W,Amistoso,Amistoso,False,Estadio Nacional de Perú,Lima,Peru,154,home,Didí,Brazil,24/02/1970
+M0152,Mexico,CONCACAF,0,1,0,1,L,,L,Amistoso,Amistoso,False,Estadio Nacional de Perú,Lima,Peru,154,home,Didí,Brazil,05/03/1970
+M0153,Mexico,CONCACAF,1,0,1,0,W,,W,Amistoso,Amistoso,False,Estadio Nacional de Perú,Lima,Peru,154,home,Didí,Brazil,08/03/1970
+M0154,Mexico,CONCACAF,1,3,1,3,L,,L,Amistoso,Amistoso,False,Estadio Azteca,Mexico City,Mexico,2240,away,Didí,Brazil,15/03/1970
+M0155,Mexico,CONCACAF,3,3,3,3,D,,D,Amistoso,Amistoso,False,Estadio León,Leon,Mexico,1800,away,Didí,Brazil,18/03/1970
+M0156,Uruguay,CONMEBOL,0,2,0,2,L,,L,Amistoso,Amistoso,False,Estadio Centenario (Montevideo),Montevideo,Uruguay,43,away,Didí,Brazil,31/03/1970
+M0157,El Salvador,CONCACAF,3,0,3,0,W,,W,Amistoso,Amistoso,False,Estadio Nacional de Perú,Lima,Peru,154,home,Didí,Brazil,21/04/1970
+M0158,Bulgaria,UEFA,3,2,3,2,W,,W,FIFA World Cup 1970,FIFA World Cup,True,Estadio León,Leon,Mexico,1800,neutral,Didí,Brazil,02/06/1970
+M0159,Morocco,CAF,3,0,3,0,W,,W,FIFA World Cup 1970,FIFA World Cup,True,Estadio León,Leon,Mexico,1800,neutral,Didí,Brazil,06/06/1970
+M0160,Germany,UEFA,1,3,1,3,L,,L,FIFA World Cup 1970,FIFA World Cup,True,Estadio León,Leon,Mexico,1800,neutral,Didí,Brazil,10/06/1970
+M0161,Brazil,CONMEBOL,2,4,2,4,L,,L,FIFA World Cup 1970,FIFA World Cup,True,Estadio Jalisco,Guadalajara,Mexico,1566,neutral,Didí,Brazil,14/06/1970
+M0162,Paraguay,CONMEBOL,0,0,0,0,D,,D,Amistoso,Amistoso,False,Estadio Nacional de Perú,Lima,Peru,154,home,Alejandro Heredia,Peru,27/07/1971
+M0163,Chile,CONMEBOL,1,0,1,0,W,,W,Copa del Pacífico 1971,Copa del Pacífico,False,Estadio Nacional de Perú,Lima,Peru,154,home,Alejandro Heredia,Peru,11/08/1971
+M0164,Paraguay,CONMEBOL,0,2,0,2,L,,L,Amistoso,Amistoso,False,Estadio Defensores del Chaco,Asuncion,Paraguay,89,away,Alejandro Heredia,Peru,15/08/1971
+M0165,Chile,CONMEBOL,0,1,0,1,L,,L,Copa del Pacífico 1971,Copa del Pacífico,False,Estadio Nacional de Chile,Santiago,Chile,520,away,Alejandro Heredia,Peru,18/08/1971
+M0166,Colombia,CONMEBOL,1,1,1,1,D,,D,Amistoso,Amistoso,False,Estadio El Campín,Bogota,Colombia,2582,away,Lajos Baróti,Hungary,29/03/1972
+M0167,Mexico,CONCACAF,1,2,1,2,L,,L,Amistoso,Amistoso,False,Estadio Azteca,Mexico City,Mexico,2240,away,Lajos Baróti,Hungary,05/04/1972
+M0168,USSR,UEFA,0,2,0,2,L,,L,Amistoso,Amistoso,False,Olimpiyskiy National Sports Complex,Kiev,USSR,179,away,Lajos Baróti,Hungary,19/04/1972
+M0169,Romania,UEFA,2,2,2,2,D,,D,Amistoso,Amistoso,False,Stadionul Republicii,Bucharest,Romania,75,away,Lajos Baróti,Hungary,23/04/1972
+M0170,Scotland,UEFA,0,2,0,2,L,,L,Amistoso,Amistoso,False,Hampden Park,Glasgow,Scotland,66,away,Lajos Baróti,Hungary,26/04/1972
+M0171,Netherlands,UEFA,0,3,0,3,L,,L,Amistoso,Amistoso,False,Stadion Feijenoord,Rotterdam,Netherlands,-2,away,Lajos Baróti,Hungary,03/05/1972
+M0172,Colombia,CONMEBOL,0,0,0,0,D,,D,Amistoso,Amistoso,False,Estadio Nacional de Perú,Lima,Peru,154,home,Roberto Scarone,Uruguay,06/06/1972
+M0173,Bolivia,CONMEBOL,3,0,3,0,W,,W,Copa Independencia de Brasil,Copa Independencia de Brasil,False,Estádio Couto Pereira,Curitiba,Brazil,934,neutral,Roberto Scarone,Uruguay,11/06/1972
+M0174,Paraguay,CONMEBOL,0,1,0,1,L,,L,Copa Independencia de Brasil,Copa Independencia de Brasil,False,Estádio Pedro Pedrossian,Campo Grande,Brazil,592,neutral,Roberto Scarone,Uruguay,14/06/1972
+M0175,Venezuela,CONMEBOL,1,0,1,0,W,,W,Copa Independencia de Brasil,Copa Independencia de Brasil,False,Estádio Vivaldo Lima,Manaus,Brazil,92,neutral,Roberto Scarone,Uruguay,18/06/1972
+M0176,Yugoslavia,UEFA,1,2,1,2,L,,L,Copa Independencia de Brasil,Copa Independencia de Brasil,False,Estádio Vivaldo Lima,Manaus,Brazil,92,neutral,Roberto Scarone,Uruguay,25/06/1972
+M0177,Mexico,CONCACAF,3,2,3,2,W,,W,Amistoso,Amistoso,False,Estadio Nacional de Perú,Lima,Peru,154,home,Roberto Scarone,Uruguay,09/08/1972
+M0178,Argentina,CONMEBOL,0,2,0,2,L,,L,Copa Mariscal Ramon Castilla 1972,Copa Mariscal Ramon Castilla,False,Estadio Nacional de Perú,Lima,Peru,154,home,Roberto Scarone,Uruguay,25/10/1972
+M0179,Guatemala,CONCACAF,5,1,5,1,W,,W,Amistoso,Amistoso,False,Estadio Nacional de Perú,Lima,Peru,154,home,Roberto Scarone,Uruguay,04/03/1973
+M0180,Bolivia,CONMEBOL,2,0,2,0,W,,W,Copa Mariscal Sucre,Copa Mariscal Sucre,False,Estadio Nacional de Perú,Lima,Peru,154,home,Roberto Scarone,Uruguay,24/03/1973
+M0181,Paraguay,CONMEBOL,1,0,1,0,W,,W,Amistoso,Amistoso,False,Estadio Nacional de Perú,Lima,Peru,154,home,Roberto Scarone,Uruguay,28/03/1973
+M0182,Paraguay,CONMEBOL,1,1,1,1,D,,D,Amistoso,Amistoso,False,Estadio Defensores del Chaco,Asuncion,Paraguay,89,away,Roberto Scarone,Uruguay,08/04/1973
+M0183,Panama,CONCACAF,4,0,4,0,W,,W,Amistoso,Amistoso,False,Estadio Nacional de Perú,Lima,Peru,154,home,Roberto Scarone,Uruguay,23/04/1973
+M0184,Chile,CONMEBOL,2,0,2,0,W,,W,FIFA World Cup Qualifiers 1974,FIFA World Cup Qualifiers,True,Estadio Nacional de Perú,Lima,Peru,154,home,Roberto Scarone,Uruguay,29/04/1973
+M0185,Chile,CONMEBOL,0,2,0,2,L,,L,FIFA World Cup Qualifiers 1974,FIFA World Cup Qualifiers,True,Estadio Nacional de Chile,Santiago,Chile,520,away,Roberto Scarone,Uruguay,13/05/1973
+M0186,Colombia,CONMEBOL,3,1,3,1,W,,W,Amistoso,Amistoso,False,Estadio Nacional de Perú,Lima,Peru,154,home,Roberto Scarone,Uruguay,01/07/1973
+M0187,Bolivia,CONMEBOL,0,2,0,2,L,,L,Copa Mariscal Sucre,Copa Mariscal Sucre,False,Estadio Hernando Siles,La Paz,Bolivia,3625,away,Roberto Scarone,Uruguay,15/07/1973
+M0188,Argentina,CONMEBOL,1,3,1,3,L,,L,Copa Mariscal Ramon Castilla 1973,Copa Mariscal Ramon Castilla,False,La Bombonera,Buenos Aires,Argentina,25,away,Roberto Scarone,Uruguay,27/07/1973
+M0189,Chile,CONMEBOL,1,2,1,2,L,,L,FIFA World Cup Qualifiers 1974,FIFA World Cup Qualifiers,True,Estadio Centenario (Montevideo),Montevideo,Uruguay,43,neutral,Roberto Scarone,Uruguay,05/08/1973
+M0190,Ecuador,CONMEBOL,0,6,0,6,L,,L,Amistoso,Amistoso,False,Estadio Olímpico Atahualpa,Quito,Ecuador,2850,away,Marcos Calderón,Peru,22/06/1975
+M0191,Ecuador,CONMEBOL,0,1,0,1,L,,L,Amistoso,Amistoso,False,Estadio George Capwell,Guayaquil,Ecuador,4,away,Marcos Calderón,Peru,25/06/1975
+M0192,Ecuador,CONMEBOL,2,0,2,0,W,,W,Amistoso,Amistoso,False,Estadio Nacional de Perú,Lima,Peru,154,home,Marcos Calderón,Peru,01/07/1975
+M0193,Paraguay,CONMEBOL,2,0,2,0,W,,W,Amistoso,Amistoso,False,Estadio Nacional de Perú,Lima,Peru,154,home,Marcos Calderón,Peru,10/07/1975
+M0194,Chile,CONMEBOL,1,1,1,1,D,,D,Copa América 1975,Copa América/Sudamericano,True,Estadio Nacional de Chile,Santiago,Chile,520,away,Marcos Calderón,Peru,17/07/1975
+M0195,Bolivia,CONMEBOL,1,0,1,0,W,,W,Copa América 1975,Copa América/Sudamericano,True,Estadio Jesús Bermúdez,Oruro,Bolivia,3735,away,Marcos Calderón,Peru,27/07/1975
+M0196,Bolivia,CONMEBOL,3,1,3,1,W,,W,Copa América 1975,Copa América/Sudamericano,True,Estadio Nacional de Perú,Lima,Peru,154,home,Marcos Calderón,Peru,07/08/1975
+M0197,Chile,CONMEBOL,3,1,3,1,W,,W,Copa América 1975,Copa América/Sudamericano,True,Estadio Nacional de Perú,Lima,Peru,154,home,Marcos Calderón,Peru,20/08/1975
+M0198,Brazil,CONMEBOL,3,1,3,1,W,,W,Copa América 1975,Copa América/Sudamericano,True,Estádio Mineirão,Belo Horizonte,Brazil,760,away,Marcos Calderón,Peru,30/09/1975
+M0199,Brazil,CONMEBOL,0,2,0,2,L,,L,Copa América 1975,Copa América/Sudamericano,True,Estadio Nacional de Perú,Lima,Peru,154,home,Marcos Calderón,Peru,04/10/1975
+M0200,Colombia,CONMEBOL,0,1,0,1,L,,L,Copa América 1975,Copa América/Sudamericano,True,Estadio El Campín,Bogota,Colombia,2582,away,Marcos Calderón,Peru,16/10/1975
+M0201,Colombia,CONMEBOL,2,0,2,0,W,,W,Copa América 1975,Copa América/Sudamericano,True,Estadio Nacional de Perú,Lima,Peru,154,home,Marcos Calderón,Peru,22/10/1975
+M0202,Colombia,CONMEBOL,1,0,1,0,W,,W,Copa América 1975,Copa América/Sudamericano,True,Estadio Olímpico UCV,Caracas,Venezuela,1037,neutral,Marcos Calderón,Peru,28/10/1975
+M0203,Uruguay,CONMEBOL,0,0,0,0,D,,D,Amistoso,Amistoso,False,Estadio Nacional de Perú,Lima,Peru,154,home,Alejandro Heredia,Peru,12/10/1976
+M0204,Argentina,CONMEBOL,1,3,1,3,L,,L,Copa Mariscal Ramon Castilla 1976,Copa Mariscal Ramon Castilla,False,Estadio Nacional de Perú,Lima,Peru,154,home,Alejandro Heredia,Peru,28/10/1976
+M0205,Argentina,CONMEBOL,0,1,0,1,L,,L,Copa Mariscal Ramon Castilla 1976,Copa Mariscal Ramon Castilla,False,Estadio José Amalfitani,Buenos Aires,Argentina,25,away,Alejandro Heredia,Peru,10/11/1976
+M0206,Uruguay,CONMEBOL,0,0,0,0,D,,D,Amistoso,Amistoso,False,Estadio Centenario (Montevideo),Montevideo,Uruguay,43,away,Alejandro Heredia,Peru,24/11/1976
+M0207,Hungary,UEFA,3,2,3,2,W,,W,Amistoso,Amistoso,False,Estadio Nacional de Perú,Lima,Peru,154,home,Marcos Calderón,Peru,09/02/1977
+M0208,Ecuador,CONMEBOL,1,1,1,1,D,,D,FIFA World Cup Qualifiers 1978,FIFA World Cup Qualifiers,True,Estadio Olímpico Atahualpa,Quito,Ecuador,2850,away,Marcos Calderón,Peru,20/02/1977
+M0209,Chile,CONMEBOL,1,1,1,1,D,,D,FIFA World Cup Qualifiers 1978,FIFA World Cup Qualifiers,True,Estadio Nacional de Chile,Santiago,Chile,520,away,Marcos Calderón,Peru,06/03/1977
+M0210,Ecuador,CONMEBOL,4,0,4,0,W,,W,FIFA World Cup Qualifiers 1978,FIFA World Cup Qualifiers,True,Estadio Nacional de Perú,Lima,Peru,154,home,Marcos Calderón,Peru,12/03/1977
+M0211,Chile,CONMEBOL,2,0,2,0,W,,W,FIFA World Cup Qualifiers 1978,FIFA World Cup Qualifiers,True,Estadio Nacional de Perú,Lima,Peru,154,home,Marcos Calderón,Peru,26/03/1977
+M0212,Mexico,CONCACAF,1,1,1,1,D,,D,Amistoso,Amistoso,False,Estadio Azteca,Mexico City,Mexico,2240,away,Marcos Calderón,Peru,17/05/1977
+M0213,Mexico,CONCACAF,1,2,1,2,L,,L,Amistoso,Amistoso,False,Estadio Universitario (UANL),Monterrey,Mexico,540,away,Marcos Calderón,Peru,24/05/1977
+M0214,Haiti,CONCACAF,2,1,2,1,W,,W,Amistoso,Amistoso,False,Port-au-Prince,Port-au-Prince,Haiti,15,away,Marcos Calderón,Peru,26/05/1977
+M0215,Haiti,CONCACAF,2,2,2,2,D,,D,Amistoso,Amistoso,False,Port-au-Prince,Port-au-Prince,Haiti,15,away,Marcos Calderón,Peru,29/05/1977
+M0216,Poland,UEFA,1,3,1,3,L,,L,Amistoso,Amistoso,False,Estadio Nacional de Perú,Lima,Peru,154,home,Marcos Calderón,Peru,10/06/1977
+M0217,Brazil,CONMEBOL,0,1,0,1,L,,L,FIFA World Cup Qualifiers 1978,FIFA World Cup Qualifiers,True,Estadio Olímpico Pascual Guerrero,Cali,Colombia,1018,neutral,Marcos Calderón,Peru,10/07/1977
+M0218,Bolivia,CONMEBOL,5,0,5,0,W,,W,FIFA World Cup Qualifiers 1978,FIFA World Cup Qualifiers,True,Estadio Olímpico Pascual Guerrero,Cali,Colombia,1018,neutral,Marcos Calderón,Peru,17/07/1977
+M0219,Argentina,CONMEBOL,1,2,1,2,L,,L,Copa Mariscal Ramon Castilla 1978,Copa Mariscal Ramon Castilla,False,La Bombonera,Buenos Aires,Argentina,25,away,Marcos Calderón,Peru,19/03/1978
+M0220,Argentina,CONMEBOL,1,3,1,3,L,,L,Copa Mariscal Ramon Castilla 1978,Copa Mariscal Ramon Castilla,False,Estadio Nacional de Perú,Lima,Peru,154,home,Marcos Calderón,Peru,23/03/1978
+M0221,Bulgaria,UEFA,1,1,1,1,D,,D,Amistoso,Amistoso,False,Estadio Nacional de Perú,Lima,Peru,154,home,Marcos Calderón,Peru,01/04/1978
+M0222,Mexico,CONCACAF,1,0,1,0,W,,W,Amistoso,Amistoso,False,Los Angeles Memorial Coliseum,Los Angeles,United States,93,neutral,Marcos Calderón,Peru,11/04/1978
+M0223,China,AFC,2,1,2,1,W,,W,Amistoso,Amistoso,False,Estadio Nacional de Perú,Lima,Peru,154,home,Marcos Calderón,Peru,22/04/1978
+M0224,Brazil,CONMEBOL,0,3,0,3,L,,L,Amistoso,Amistoso,False,Estádio do Maracanã,Rio de Janeiro,Brazil,11,away,Marcos Calderón,Peru,01/05/1978
+M0225,Scotland,UEFA,3,1,3,1,W,,W,FIFA World Cup 1978,FIFA World Cup,True,"	Estadio Chateau Carreras",Cordoba,Argentina,440,neutral,Marcos Calderón,Peru,03/06/1978
+M0226,Netherlands,UEFA,0,0,0,0,D,,D,FIFA World Cup 1978,FIFA World Cup,True,Estadio Malvinas Argentinas,Mendoza,Argentina,769,neutral,Marcos Calderón,Peru,07/06/1978
+M0227,Iran,AFC,4,1,4,1,W,,W,FIFA World Cup 1978,FIFA World Cup,True,"	Estadio Chateau Carreras",Cordoba,Argentina,440,neutral,Marcos Calderón,Peru,11/06/1978
+M0228,Brazil,CONMEBOL,0,3,0,3,L,,L,FIFA World Cup 1978,FIFA World Cup,True,Estadio Malvinas Argentinas,Mendoza,Argentina,769,neutral,Marcos Calderón,Peru,14/06/1978
+M0229,Poland,UEFA,0,1,0,1,L,,L,FIFA World Cup 1978,FIFA World Cup,True,Estadio Malvinas Argentinas,Mendoza,Argentina,769,neutral,Marcos Calderón,Peru,18/06/1978
+M0230,Argentina,CONMEBOL,0,6,0,6,L,,L,FIFA World Cup 1978,FIFA World Cup,True,Estadio Gigante de Arroyito,Rosario,Argentina,25,away,Marcos Calderón,Peru,21/06/1978
+M0231,Ecuador,CONMEBOL,2,1,2,1,W,,W,Amistoso,Amistoso,False,Estadio Nacional de Perú,Lima,Peru,154,home,José Chiarella,Peru,11/07/1979
+M0232,Colombia,CONMEBOL,0,1,0,1,L,,L,Amistoso,Amistoso,False,Estadio Nacional de Perú,Lima,Peru,154,home,José Chiarella,Peru,18/07/1979
+M0233,Colombia,CONMEBOL,2,1,2,1,W,,W,Amistoso,Amistoso,False,Estadio El Campín,Bogota,Colombia,2582,away,José Chiarella,Peru,25/07/1979
+M0234,Ecuador,CONMEBOL,1,2,1,2,L,,L,Amistoso,Amistoso,False,Estadio Olímpico Atahualpa,Quito,Ecuador,2850,away,José Chiarella,Peru,08/08/1979
+M0235,Uruguay,CONMEBOL,2,0,2,0,W,,W,Amistoso,Amistoso,False,Estadio Nacional de Perú,Lima,Peru,154,home,José Chiarella,Peru,30/08/1979
+M0236,Scotland,UEFA,1,1,1,1,D,,D,Amistoso,Amistoso,False,Hampden Park,Glasgow,Scotland,66,away,José Chiarella,Peru,12/09/1979
+M0237,Paraguay,CONMEBOL,2,3,2,3,L,,L,Amistoso,Amistoso,False,Estadio Nacional de Perú,Lima,Peru,154,home,José Chiarella,Peru,10/10/1979
+M0238,Chile,CONMEBOL,1,2,1,2,L,,L,Copa América 1979,Copa América/Sudamericano,True,Estadio Nacional de Perú,Lima,Peru,154,home,José Chiarella,Peru,17/10/1979
+M0239,Chile,CONMEBOL,0,0,0,0,D,,D,Copa América 1979,Copa América/Sudamericano,True,Estadio Nacional de Chile,Santiago,Chile,520,away,José Chiarella,Peru,24/10/1979
+M0240,Mexico,CONCACAF,0,1,0,1,L,,L,Amistoso,Amistoso,False,Estadio Universitario (UANL),Monterrey,Mexico,540,away,José Chiarella,Peru,01/11/1979
+M0241,Uruguay,CONMEBOL,0,0,0,0,D,,D,Amistoso,Amistoso,False,Estadio Centenario (Montevideo),Montevideo,Uruguay,43,away,Juan José Tan,Peru,18/07/1980
+M0242,Uruguay,CONMEBOL,1,1,1,1,D,,D,Amistoso,Amistoso,False,Estadio Alejandro Villanueva,Lima,Peru,154,home,Marcos Calderón,Peru,12/11/1980
+M0243,Czechoslovakia,UEFA,1,3,1,3,L,,L,Amistoso,Amistoso,False,Estadio Alejandro Villanueva,Lima,Peru,154,home,Alejandro Heredia,Peru,04/02/1981
+M0244,Bulgaria,UEFA,1,2,1,2,L,,L,Amistoso,Amistoso,False,Estadio Alejandro Villanueva,Lima,Peru,154,home,Alejandro Heredia,Peru,11/02/1981
+M0245,Chile,CONMEBOL,0,3,0,3,L,,L,Amistoso,Amistoso,False,Estadio Nacional de Chile,Santiago,Chile,520,away,Alejandro Heredia,Peru,19/04/1981
+M0246,Colombia,CONMEBOL,1,1,1,1,D,,D,FIFA World Cup Qualifiers 1982,FIFA World Cup Qualifiers,True,Estadio El Campín,Bogota,Colombia,2582,away,Tim,Brazil,26/07/1981
+M0247,Chile,CONMEBOL,1,2,1,2,L,,L,Amistoso,Amistoso,False,Estadio Nacional de Perú,Lima,Peru,154,home,Tim,Brazil,05/08/1981
+M0248,Colombia,CONMEBOL,2,0,2,0,W,,W,FIFA World Cup Qualifiers 1982,FIFA World Cup Qualifiers,True,Estadio Nacional de Perú,Lima,Peru,154,home,Tim,Brazil,16/08/1981
+M0249,Uruguay,CONMEBOL,2,1,2,1,W,,W,FIFA World Cup Qualifiers 1982,FIFA World Cup Qualifiers,True,Estadio Centenario (Montevideo),Montevideo,Uruguay,43,away,Tim,Brazil,23/08/1981
+M0250,Uruguay,CONMEBOL,0,0,0,0,D,,D,FIFA World Cup Qualifiers 1982,FIFA World Cup Qualifiers,True,Estadio Nacional de Perú,Lima,Peru,154,home,Tim,Brazil,06/09/1981
+M0251,Chile,CONMEBOL,1,2,1,2,L,,L,Amistoso,Amistoso,False,Estadio Nacional de Chile,Santiago,Chile,520,away,Tim,Brazil,23/03/1982
+M0252,Chile,CONMEBOL,1,0,1,0,W,,W,Copa del Pacífico 1982,Copa del Pacífico,False,Estadio Nacional de Perú,Lima,Peru,154,home,Tim,Brazil,30/03/1982
+M0253,Hungary,UEFA,2,1,2,1,W,,W,Amistoso,Amistoso,False,Ferenc Puskas Stadium,Budapest,Hungary,151,away,Tim,Brazil,18/04/1982
+M0254,Algeria,CAF,1,1,1,1,D,,D,Amistoso,Amistoso,False,Stade du 5-Juillet-1962,Algiers,Algeria,0,away,Tim,Brazil,25/04/1982
+M0255,France,UEFA,1,0,1,0,W,,W,Amistoso,Amistoso,False,Parc des Princes,Paris,France,33,away,Tim,Brazil,28/04/1982
+M0256,Romania,UEFA,2,0,2,0,W,,W,Amistoso,Amistoso,False,Estadio Nacional de Perú,Lima,Peru,154,home,Tim,Brazil,17/05/1982
+M0257,Cameroon,CAF,0,0,0,0,D,,D,FIFA World Cup 1982,FIFA World Cup,True,Estadio de Riazor,La Coruña,Spain,21,neutral,Tim,Brazil,15/06/1982
+M0258,Italy,UEFA,1,1,1,1,D,,D,FIFA World Cup 1982,FIFA World Cup,True,Estadio de Balaidos,Vigo,Spain,62,neutral,Tim,Brazil,18/06/1982
+M0259,Poland,UEFA,1,5,1,5,L,,L,FIFA World Cup 1982,FIFA World Cup,True,Estadio de Riazor,La Coruña,Spain,21,neutral,Tim,Brazil,22/06/1982
+M0260,Uruguay,CONMEBOL,1,1,1,1,D,,D,Amistoso,Amistoso,False,Estadio Centenario (Montevideo),Montevideo,Uruguay,43,away,Juan José Tan,Peru,18/07/1983
+M0261,Chile,CONMEBOL,0,1,0,1,L,,L,Copa del Pacífico 1983,Copa del Pacífico,False,Estadio Nacional de Perú,Lima,Peru,154,home,Juan José Tan,Peru,21/07/1983
+M0262,Chile,CONMEBOL,0,2,0,2,L,,L,Copa del Pacífico 1983,Copa del Pacífico,False,Estadio Carlos Dittborn,Arica,Chile,2,away,Juan José Tan,Peru,03/08/1983
+M0263,Uruguay,CONMEBOL,1,1,1,1,D,,D,Amistoso,Amistoso,False,Estadio Nacional de Perú,Lima,Peru,154,home,Juan José Tan,Peru,11/08/1983
+M0264,Colombia,CONMEBOL,1,0,1,0,W,,W,Copa América 1983,Copa América/Sudamericano,True,Estadio Nacional de Perú,Lima,Peru,154,home,Juan José Tan,Peru,17/08/1983
+M0265,Bolivia,CONMEBOL,1,1,1,1,D,,D,Copa América 1983,Copa América/Sudamericano,True,Estadio Hernando Siles,La Paz,Bolivia,3625,away,Juan José Tan,Peru,21/08/1983
+M0266,Colombia,CONMEBOL,2,2,2,2,D,,D,Copa América 1983,Copa América/Sudamericano,True,Estadio El Campín,Bogota,Colombia,2582,away,Juan José Tan,Peru,28/08/1983
+M0267,Bolivia,CONMEBOL,2,1,2,1,W,,W,Copa América 1983,Copa América/Sudamericano,True,Estadio Nacional de Perú,Lima,Peru,154,home,Juan José Tan,Peru,04/09/1983
+M0268,Paraguay,CONMEBOL,0,2,0,2,L,,L,Amistoso,Amistoso,False,Estadio Nacional de Perú,Lima,Peru,154,home,Juan José Tan,Peru,05/10/1983
+M0269,Paraguay,CONMEBOL,1,4,1,4,L,,L,Amistoso,Amistoso,False,Estadio Defensores del Chaco,Asuncion,Paraguay,89,away,Juan José Tan,Peru,07/10/1983
+M0270,Uruguay,CONMEBOL,0,1,0,1,L,,L,Copa América 1983,Copa América/Sudamericano,True,Estadio Nacional de Perú,Lima,Peru,154,home,Juan José Tan,Peru,13/10/1983
+M0271,Uruguay,CONMEBOL,1,1,1,1,D,,D,Copa América 1983,Copa América/Sudamericano,True,Estadio Centenario (Montevideo),Montevideo,Uruguay,43,away,Juan José Tan,Peru,20/10/1983
+M0272,Honduras,CONCACAF,1,3,1,3,L,,L,Amistoso,Amistoso,False,Estadio Alejandro Villanueva,Lima,Peru,154,home,Moisés Barack,Peru,26/02/1984
+M0273,Colombia,CONMEBOL,1,1,1,1,D,,D,Amistoso,Amistoso,False,Estadio El Campín,Bogota,Colombia,2582,away,Moisés Barack,Peru,26/07/1984
+M0274,Colombia,CONMEBOL,0,0,0,0,D,,D,Amistoso,Amistoso,False,Estadio Nacional de Perú,Lima,Peru,154,home,Moisés Barack,Peru,09/08/1984
+M0275,Uruguay,CONMEBOL,0,2,0,2,L,,L,Amistoso,Amistoso,False,Estadio Centenario (Montevideo),Montevideo,Uruguay,43,away,Moisés Barack,Peru,19/09/1984
+M0276,Uruguay,CONMEBOL,1,3,1,3,L,,L,Amistoso,Amistoso,False,Estadio Nacional de Perú,Lima,Peru,154,home,Moisés Barack,Peru,03/10/1984
+M0277,Bolivia,CONMEBOL,3,0,3,0,W,,W,Amistoso,Amistoso,False,Estadio Nacional de Perú,Lima,Peru,154,home,Moisés Barack,Peru,17/02/1985
+M0278,Chile,CONMEBOL,2,1,2,1,W,,W,Amistoso,Amistoso,False,Estadio Nacional de Chile,Santiago,Chile,520,away,Moisés Barack,Peru,24/02/1985
+M0279,Uruguay,CONMEBOL,2,2,2,2,D,,D,Amistoso,Amistoso,False,Estadio Centenario (Montevideo),Montevideo,Uruguay,43,away,Moisés Barack,Peru,27/02/1985
+M0280,Chile,CONMEBOL,1,1,1,1,D,,D,Amistoso,Amistoso,False,Estadio Nacional de Perú,Lima,Peru,154,home,Moisés Barack,Peru,09/03/1985
+M0281,Ecuador,CONMEBOL,1,0,1,0,W,,W,Amistoso,Amistoso,False,Estadio Nacional de Perú,Lima,Peru,154,home,Moisés Barack,Peru,21/03/1985
+M0282,Uruguay,CONMEBOL,2,1,2,1,W,,W,Amistoso,Amistoso,False,Estadio Nacional de Perú,Lima,Peru,154,home,Moisés Barack,Peru,23/04/1985
+M0283,Brazil,CONMEBOL,1,0,1,0,W,,W,Amistoso,Amistoso,False,Estádio Nacional Mané Garrincha,Brasilia,Brazil,1171,away,Moisés Barack,Peru,28/04/1985
+M0284,Bolivia,CONMEBOL,0,0,0,0,D,,D,Amistoso,Amistoso,False,Estadio Ramón Tahuichi Aguilera Costas,Santa Cruz,Bolivia,416,away,Moisés Barack,Peru,01/05/1985
+M0285,Colombia,CONMEBOL,0,1,0,1,L,,L,FIFA World Cup Qualifiers 1986,FIFA World Cup Qualifiers,True,Estadio El Campín,Bogota,Colombia,2582,away,Moisés Barack,Peru,26/05/1985
+M0286,Venezuela,CONMEBOL,1,0,1,0,W,,W,FIFA World Cup Qualifiers 1986,FIFA World Cup Qualifiers,True,Polideportivo de Pueblo Nuevo,San Cristobal,Venezuela,900,away,Moisés Barack,Peru,02/06/1985
+M0287,Colombia,CONMEBOL,0,0,0,0,D,,D,FIFA World Cup Qualifiers 1986,FIFA World Cup Qualifiers,True,Estadio Nacional de Perú,Lima,Peru,154,home,Moisés Barack,Peru,09/06/1985
+M0288,Venezuela,CONMEBOL,4,1,4,1,W,,W,FIFA World Cup Qualifiers 1986,FIFA World Cup Qualifiers,True,Estadio Nacional de Perú,Lima,Peru,154,home,Roberto Chale,Peru,16/06/1985
+M0289,Argentina,CONMEBOL,1,0,1,0,W,,W,FIFA World Cup Qualifiers 1986,FIFA World Cup Qualifiers,True,Estadio Nacional de Perú,Lima,Peru,154,home,Roberto Chale,Peru,23/06/1985
+M0290,Argentina,CONMEBOL,2,2,2,2,D,,D,FIFA World Cup Qualifiers 1986,FIFA World Cup Qualifiers,True,Estadio Monumental Antonio Vespucio Liberti,Buenos Aires,Argentina,25,away,Roberto Chale,Peru,30/06/1985
+M0291,Mexico,CONCACAF,0,0,0,0,D,,D,Amistoso,Amistoso,False,Los Angeles Memorial Coliseum,Los Angeles,United States,93,neutral,Roberto Chale,Peru,20/09/1985
+M0292,Mexico,CONCACAF,0,1,0,1,L,,L,Amistoso,Amistoso,False,Spartan Stadium,San Jose,United States,25,neutral,Roberto Chale,Peru,22/09/1985
+M0293,Paraguay,CONMEBOL,0,1,0,1,L,,L,Amistoso,Amistoso,False,Estadio Nacional de Perú,Lima,Peru,154,home,Roberto Chale,Peru,16/10/1985
+M0294,Chile,CONMEBOL,2,4,2,4,L,,L,FIFA World Cup Qualifiers 1986,FIFA World Cup Qualifiers,True,Estadio Nacional de Chile,Santiago,Chile,520,away,Roberto Chale,Peru,27/10/1985
+M0295,Chile,CONMEBOL,0,1,0,1,L,,L,FIFA World Cup Qualifiers 1986,FIFA World Cup Qualifiers,True,Estadio Nacional de Perú,Lima,Peru,154,home,Roberto Chale,Peru,03/11/1985
+M0296,China,AFC,1,3,1,3,L,,L,Nehru Cup 1986,Nehru Cup,False,Greenfield International Stadium,Thiruvananthapuram,India,10,neutral,Manuel Mayorga,Peru,28/01/1986
+M0297,India,AFC,1,0,1,0,W,,W,Nehru Cup 1986,Nehru Cup,False,Greenfield International Stadium,Thiruvananthapuram,India,10,away,Manuel Mayorga,Peru,30/01/1986
+M0298,Brazil,CONMEBOL,0,4,0,4,L,,L,Amistoso,Amistoso,False,Estádio Governador João Castelo,Sao Luis,Brazil,24,away,Manuel Mayorga,Peru,01/04/1986
+M0299,Chile,CONMEBOL,1,3,1,3,L,,L,Amistoso,Amistoso,False,Estadio Nacional de Perú,Lima,Peru,154,home,Fernando Cuéllar,Peru,19/06/1987
+M0300,Chile,CONMEBOL,2,0,2,0,W,,W,Amistoso,Amistoso,False,Estadio Nacional de Perú,Lima,Peru,154,home,Fernando Cuéllar,Peru,21/06/1987
+M0301,Chile,CONMEBOL,0,1,0,1,L,,L,Amistoso,Amistoso,False,Estadio Nacional de Chile,Santiago,Chile,520,away,Fernando Cuéllar,Peru,24/06/1987
+M0302,Argentina,CONMEBOL,1,1,1,1,D,,D,Copa América 1987,Copa América/Sudamericano,True,Estadio Monumental Antonio Vespucio Liberti,Buenos Aires,Argentina,25,away,Fernando Cuéllar,Peru,27/06/1987
+M0303,Ecuador,CONMEBOL,1,1,1,1,D,,D,Copa América 1987,Copa América/Sudamericano,True,Estadio Monumental Antonio Vespucio Liberti,Buenos Aires,Argentina,25,neutral,Fernando Cuéllar,Peru,04/07/1987
+M0304,Paraguay,CONMEBOL,0,1,0,1,L,,L,Amistoso,Amistoso,False,Estadio Nacional de Perú,Lima,Peru,154,home,José Fernández,Peru,21/09/1988
+M0305,Chile,CONMEBOL,0,2,0,2,L,,L,Copa del Pacífico 1988,Copa del Pacífico,False,Estadio Carlos Dittborn,Arica,Chile,2,away,José Fernández,Peru,25/10/1988
+M0306,Chile,CONMEBOL,1,1,1,1,D,,D,Copa del Pacífico 1988,Copa del Pacífico,False,Estadio Nacional de Perú,Lima,Peru,154,home,José Fernández,Peru,23/11/1988
+M0307,Uruguay,CONMEBOL,0,3,0,3,L,,L,Amistoso,Amistoso,False,Estadio Centenario (Montevideo),Montevideo,Uruguay,43,away,José Fernández,Peru,14/12/1988
+M0308,Chile,CONMEBOL,0,0,0,0,D,,D,Copa Centenario de Armenia,Copa Centenario de Armenia,False,Estadio Centenario de Armenia,Armenia,Colombia,1551,neutral,José Fernández,Peru,01/02/1989
+M0309,Colombia,CONMEBOL,0,1,0,1,L,,L,Copa Centenario de Armenia,Copa Centenario de Armenia,False,Estadio Hernán Ramírez,Pereira,Colombia,1411,away,José Fernández,Peru,03/02/1989
+M0310,Brazil,CONMEBOL,1,4,1,4,L,,L,Amistoso,Amistoso,False,Estádio Aderaldo Plácido Castelo,Fortaleza,Brazil,16,away,José Macia,Brazil,10/05/1989
+M0311,Paraguay,CONMEBOL,1,1,1,1,D,,D,Amistoso,Amistoso,False,Estadio Defensores del Chaco,Asuncion,Paraguay,89,away,José Macia,Brazil,15/05/1989
+M0312,Venezuela,CONMEBOL,2,1,2,1,W,,W,Amistoso,Amistoso,False,Estadio Nacional de Perú,Lima,Peru,154,home,José Macia,Brazil,18/05/1989
+M0313,Brazil,CONMEBOL,1,1,1,1,D,,D,Amistoso,Amistoso,False,Estadio Nacional de Perú,Lima,Peru,154,home,José Macia,Brazil,24/05/1989
+M0314,United States,CONCACAF,0,3,0,3,L,,L,Marlboro Cup 1989,Marlboro Cup,False,MetLife Stadium,East Rutherford,United States,1,away,José Macia,Brazil,04/06/1989
+M0315,Trinidad and Tobago,CONCACAF,1,2,1,2,L,,L,Amistoso,Amistoso,False,Queen's Park Oval,Port of Spain,Trinidad and Tobago,3,away,José Macia,Brazil,16/06/1989
+M0316,Ecuador,CONMEBOL,2,1,2,1,W,,W,Amistoso,Amistoso,False,Queen's Park Oval,Port of Spain,Trinidad and Tobago,3,neutral,José Macia,Brazil,20/06/1989
+M0317,Venezuela,CONMEBOL,1,3,1,3,L,,L,Amistoso,Amistoso,False,Polideportivo de Pueblo Nuevo,San Cristobal,Venezuela,900,away,José Macia,Brazil,25/06/1989
+M0318,Paraguay,CONMEBOL,2,5,2,5,L,,L,Copa América 1989,Copa América/Sudamericano,True,Arena Fonte Nova,Salvador de Bahia,Brazil,8,neutral,José Macia,Brazil,01/07/1989
+M0319,Brazil,CONMEBOL,0,0,0,0,D,,D,Copa América 1989,Copa América/Sudamericano,True,Arena Fonte Nova,Salvador de Bahia,Brazil,8,away,José Macia,Brazil,03/07/1989
+M0320,Venezuela,CONMEBOL,1,1,1,1,D,,D,Copa América 1989,Copa América/Sudamericano,True,Arena Fonte Nova,Salvador de Bahia,Brazil,8,neutral,José Macia,Brazil,05/07/1989
+M0321,Colombia,CONMEBOL,1,1,1,1,D,,D,Copa América 1989,Copa América/Sudamericano,True,Estadio do Arruda,Recife,Brazil,4,neutral,José Macia,Brazil,09/07/1989
+M0322,Chile,CONMEBOL,1,2,1,2,L,,L,Amistoso,Amistoso,False,Estadio Carlos Dittborn,Arica,Chile,2,away,José Macia,Brazil,25/07/1989
+M0323,Bolivia,CONMEBOL,1,2,1,2,L,,L,FIFA World Cup Qualifiers 1990,FIFA World Cup Qualifiers,True,Estadio Hernando Siles,La Paz,Bolivia,3625,away,José Macia,Brazil,20/08/1989
+M0324,Uruguay,CONMEBOL,0,2,0,2,L,,L,FIFA World Cup Qualifiers 1990,FIFA World Cup Qualifiers,True,Estadio Nacional de Perú,Lima,Peru,154,home,José Macia,Brazil,27/08/1989
+M0325,Bolivia,CONMEBOL,1,2,1,2,L,,L,FIFA World Cup Qualifiers 1990,FIFA World Cup Qualifiers,True,Estadio Nacional de Perú,Lima,Peru,154,home,José Macia,Brazil,10/09/1989
+M0326,Uruguay,CONMEBOL,0,2,0,2,L,,L,FIFA World Cup Qualifiers 1990,FIFA World Cup Qualifiers,True,Estadio Centenario (Montevideo),Montevideo,Uruguay,43,away,Percy Rojas,Peru,24/09/1989
+M0327,Ecuador,CONMEBOL,0,1,0,1,L,,L,Amistoso,Amistoso,False,Estadio Nacional de Perú,Lima,Peru,154,home,Miguel Company,Peru,06/06/1991
+M0328,Uruguay,CONMEBOL,1,0,1,0,W,,W,Amistoso,Amistoso,False,Estadio Nacional de Perú,Lima,Peru,154,home,Miguel Company,Peru,12/06/1991
+M0329,Uruguay,CONMEBOL,0,0,0,0,D,,D,Amistoso,Amistoso,False,Estadio Centenario (Montevideo),Montevideo,Uruguay,43,away,Miguel Company,Peru,20/06/1991
+M0330,Ecuador,CONMEBOL,2,2,2,2,D,,D,Amistoso,Amistoso,False,Estadio Monumental Isidro Romero,Guayaquil,Ecuador,4,away,Miguel Company,Peru,25/06/1991
+M0331,Paraguay,CONMEBOL,0,1,0,1,L,,L,Copa América 1991,Copa América/Sudamericano,True,Estadio Nacional de Chile,Santiago,Chile,520,neutral,Miguel Company,Peru,06/07/1991
+M0332,Chile,CONMEBOL,2,4,2,4,L,,L,Copa América 1991,Copa América/Sudamericano,True,Estadio Municipal de Collao,Concepcion,Chile,12,away,Miguel Company,Peru,08/07/1991
+M0333,Venezuela,CONMEBOL,5,1,5,1,W,,W,Copa América 1991,Copa América/Sudamericano,True,Estadio Nacional de Chile,Santiago,Chile,520,neutral,Miguel Company,Peru,12/07/1991
+M0334,Argentina,CONMEBOL,2,3,2,3,L,,L,Copa América 1991,Copa América/Sudamericano,True,Estadio Nacional de Chile,Santiago,Chile,520,neutral,Miguel Company,Peru,14/07/1991
+M0335,Ecuador,CONMEBOL,1,1,1,1,D,,D,Amistoso,Amistoso,False,Estadio Nacional de Perú,Lima,Peru,154,home,Vladimir Popovic,Yugoslavia,24/11/1992
+M0336,Venezuela,CONMEBOL,0,0,0,0,D,,D,Amistoso,Amistoso,False,Estadio Cachamay,Puerto Ordaz,Venezuela,82,away,Vladimir Popovic,Yugoslavia,23/01/1993
+M0337,Honduras,CONCACAF,1,1,1,1,D,,D,Amistoso,Amistoso,False,Estadio Nacional de Perú,Lima,Peru,154,home,Vladimir Popovic,Yugoslavia,27/01/1993
+M0338,Belarus,UEFA,1,1,1,1,D,,D,Amistoso,Amistoso,False,Estadio Nacional de Perú,Lima,Peru,154,home,Vladimir Popovic,Yugoslavia,30/01/1993
+M0339,Romania,UEFA,0,2,0,2,L,,L,Amistoso,Amistoso,False,Estadio Nacional de Perú,Lima,Peru,154,home,Vladimir Popovic,Yugoslavia,03/02/1993
+M0340,United States,CONCACAF,0,0,0,0,D,,D,Amistoso,Amistoso,False,Mission Viejo,Mission Viejo,United States,171,away,Vladimir Popovic,Yugoslavia,26/05/1993
+M0341,Ecuador,CONMEBOL,0,1,0,1,L,,L,Amistoso,Amistoso,False,Estadio Olímpico Atahualpa,Quito,Ecuador,2850,away,Vladimir Popovic,Yugoslavia,30/05/1993
+M0342,Bolivia,CONMEBOL,1,0,1,0,W,,W,Amistoso,Amistoso,False,Estadio Nacional de Perú,Lima,Peru,154,home,Vladimir Popovic,Yugoslavia,06/06/1993
+M0343,Venezuela,CONMEBOL,3,1,3,1,W,,W,Amistoso,Amistoso,False,Estadio Mariano Melgar,Arequipa,Peru,2335,home,Vladimir Popovic,Yugoslavia,11/06/1993
+M0344,Brazil,CONMEBOL,0,0,0,0,D,,D,Copa América 1993,Copa América/Sudamericano,True,Estadio Alejandro Serrano Aguilar,Cuenca,Ecuador,2550,neutral,Vladimir Popovic,Yugoslavia,18/06/1993
+M0345,Paraguay,CONMEBOL,1,1,1,1,D,,D,Copa América 1993,Copa América/Sudamericano,True,Estadio Alejandro Serrano Aguilar,Cuenca,Ecuador,2550,neutral,Vladimir Popovic,Yugoslavia,21/06/1993
+M0346,Chile,CONMEBOL,1,0,1,0,W,,W,Copa América 1993,Copa América/Sudamericano,True,Estadio Alejandro Serrano Aguilar,Cuenca,Ecuador,2550,neutral,Vladimir Popovic,Yugoslavia,24/06/1993
+M0347,Mexico,CONCACAF,2,4,2,4,L,,L,Copa América 1993,Copa América/Sudamericano,True,Estadio Olímpico Atahualpa,Quito,Ecuador,2850,neutral,Vladimir Popovic,Yugoslavia,27/06/1993
+M0348,Uruguay,CONMEBOL,1,2,1,2,L,,L,Amistoso,Amistoso,False,Estadio Nacional de Perú,Lima,Peru,154,home,Vladimir Popovic,Yugoslavia,13/07/1993
+M0349,Uruguay,CONMEBOL,0,3,0,3,L,,L,Amistoso,Amistoso,False,Estadio Centenario (Montevideo),Montevideo,Uruguay,43,away,Vladimir Popovic,Yugoslavia,17/07/1993
+M0350,Argentina,CONMEBOL,0,1,0,1,L,,L,FIFA World Cup Qualifiers 1994,FIFA World Cup Qualifiers,True,Estadio Nacional de Perú,Lima,Peru,154,home,Vladimir Popovic,Yugoslavia,01/08/1993
+M0351,Colombia,CONMEBOL,0,1,0,1,L,,L,FIFA World Cup Qualifiers 1994,FIFA World Cup Qualifiers,True,Estadio Nacional de Perú,Lima,Peru,154,home,Vladimir Popovic,Yugoslavia,08/08/1993
+M0352,Paraguay,CONMEBOL,1,2,1,2,L,,L,FIFA World Cup Qualifiers 1994,FIFA World Cup Qualifiers,True,Estadio Defensores del Chaco,Asuncion,Paraguay,89,away,Vladimir Popovic,Yugoslavia,15/08/1993
+M0353,Argentina,CONMEBOL,1,2,1,2,L,,L,FIFA World Cup Qualifiers 1994,FIFA World Cup Qualifiers,True,Estadio Monumental Antonio Vespucio Liberti,Buenos Aires,Argentina,25,away,Vladimir Popovic,Yugoslavia,22/08/1993
+M0354,Colombia,CONMEBOL,0,4,0,4,L,,L,FIFA World Cup Qualifiers 1994,FIFA World Cup Qualifiers,True,Estadio Metropolitano de Barranquilla,Barranquilla,Colombia,18,away,Vladimir Popovic,Yugoslavia,29/08/1993
+M0355,Paraguay,CONMEBOL,2,2,2,2,D,,D,FIFA World Cup Qualifiers 1994,FIFA World Cup Qualifiers,True,Estadio Nacional de Perú,Lima,Peru,154,home,Vladimir Popovic,Yugoslavia,05/09/1993
+M0356,Colombia,CONMEBOL,0,1,0,1,L,,L,Copa Miami 1994,Copa Miami,False,Miami Orange Bowl,Miami,United States,2,neutral,Miguel Company,Peru,03/05/1994
+M0357,Honduras,CONCACAF,1,2,1,2,L,,L,Copa Miami 1994,Copa Miami,False,Miami Orange Bowl,Miami,United States,2,neutral,Miguel Company,Peru,05/05/1994
+M0358,Chile,CONMEBOL,1,2,1,2,L,,L,Amistoso,Amistoso,False,Estadio Nacional de Chile,Santiago,Chile,520,away,Miguel Company,Peru,25/05/1994
+M0359,Bolivia,CONMEBOL,0,0,0,0,D,,D,Amistoso,Amistoso,False,Estadio Ramón Tahuichi Aguilera Costas,Santa Cruz,Bolivia,416,away,Miguel Company,Peru,08/06/1994
+M0360,Ecuador,CONMEBOL,2,0,2,0,W,,W,Amistoso,Amistoso,False,Estadio Nacional de Perú,Lima,Peru,154,home,Miguel Company,Peru,17/08/1994
+M0361,Ecuador,CONMEBOL,0,0,0,0,D,,D,Amistoso,Amistoso,False,Estadio 9 de Mayo,Machala,Ecuador,6,away,Miguel Company,Peru,21/09/1994
+M0362,Uruguay,CONMEBOL,0,1,0,1,L,,L,Amistoso,Amistoso,False,Estadio Nacional de Perú,Lima,Peru,154,home,Miguel Company,Peru,19/10/1994
+M0363,Uruguay,CONMEBOL,0,1,0,1,L,,L,Amistoso,Amistoso,False,Estadio Centenario (Montevideo),Montevideo,Uruguay,43,away,Miguel Company,Peru,05/04/1995
+M0364,Chile,CONMEBOL,6,0,6,0,W,,W,Amistoso,Amistoso,False,Estadio Nacional de Perú,Lima,Peru,154,home,Miguel Company,Peru,19/04/1995
+M0365,Argentina,CONMEBOL,0,1,0,1,L,,L,Copa Municipalidad de Córdoba,Copa Municipalidad de Córdoba,False,Estadio Mario Kempes,Cordoba,Argentina,440,away,Miguel Company,Peru,31/05/1995
+M0366,Slovakia,UEFA,1,0,1,0,W,,W,Amistoso,Amistoso,False,Estadio Nacional de Perú,Lima,Peru,154,home,Miguel Company,Peru,25/06/1995
+M0367,Bolivia,CONMEBOL,4,1,4,1,W,,W,Amistoso,Amistoso,False,Estadio Nacional de Perú,Lima,Peru,154,home,Miguel Company,Peru,01/07/1995
+M0368,Colombia,CONMEBOL,1,1,1,1,D,,D,Copa América 1995,Copa América/Sudamericano,True,Estadio Atilio Paiva Olivera,Rivera,Uruguay,223,neutral,Miguel Company,Peru,07/07/1995
+M0369,Brazil,CONMEBOL,0,2,0,2,L,,L,Copa América 1995,Copa América/Sudamericano,True,Estadio Atilio Paiva Olivera,Rivera,Uruguay,223,neutral,Miguel Company,Peru,10/07/1995
+M0370,Ecuador,CONMEBOL,1,2,1,2,L,,L,Copa América 1995,Copa América/Sudamericano,True,Estadio Atilio Paiva Olivera,Rivera,Uruguay,22,neutral,Miguel Company,Peru,13/07/1995
+M0371,Bolivia,CONMEBOL,1,3,1,3,L,,L,Amistoso,Amistoso,False,Estadio Nacional de Perú,Lima,Peru,154,home,Juan Carlos Oblitas,Peru,11/02/1996
+M0372,Chile,CONMEBOL,0,4,0,4,L,,L,Amistoso,Amistoso,False,Estadio Francisco Sánchez,Coquimbo,Chile,15,away,Juan Carlos Oblitas,Peru,14/02/1996
+M0373,Bolivia,CONMEBOL,0,2,0,2,L,,L,Amistoso,Amistoso,False,Estadio Ramón Tahuichi Aguilera Costas,Santa Cruz,Bolivia,416,away,Juan Carlos Oblitas,Peru,07/03/1996
+M0374,Ecuador,CONMEBOL,1,4,1,4,L,,L,FIFA World Cup Qualifiers 1998,FIFA World Cup Qualifiers,True,Estadio Monumental Isidro Romero,Guayaquil,Ecuador,4,away,Juan Carlos Oblitas,Peru,24/04/1996
+M0375,Colombia,CONMEBOL,1,1,1,1,D,,D,FIFA World Cup Qualifiers 1998,FIFA World Cup Qualifiers,True,Estadio Nacional de Perú,Lima,Peru,154,home,Juan Carlos Oblitas,Peru,02/06/1996
+M0376,Armenia,UEFA,4,0,4,0,W,,W,Amistoso,Amistoso,False,Estadio Nacional de Perú,Lima,Peru,154,home,Juan Carlos Oblitas,Peru,20/06/1996
+M0377,Argentina,CONMEBOL,0,0,0,0,D,,D,FIFA World Cup Qualifiers 1998,FIFA World Cup Qualifiers,True,Estadio Nacional de Perú,Lima,Peru,154,home,Juan Carlos Oblitas,Peru,07/07/1996
+M0378,Costa Rica,CONCACAF,3,0,3,0,W,,W,Amistoso,Amistoso,False,Estadio Monumental UNSA,Arequipa,Peru,2335,home,Juan Carlos Oblitas,Peru,14/08/1996
+M0379,Bolivia,CONMEBOL,0,0,0,0,D,,D,FIFA World Cup Qualifiers 1998,FIFA World Cup Qualifiers,True,Estadio Hernando Siles,La Paz,Bolivia,3625,away,Juan Carlos Oblitas,Peru,01/09/1996
+M0380,United States,CONCACAF,4,1,4,1,W,,W,Amistoso,Amistoso,False,Estadio Nacional de Perú,Lima,Peru,154,home,Juan Carlos Oblitas,Peru,16/10/1996
+M0381,Venezuela,CONMEBOL,4,1,4,1,W,,W,FIFA World Cup Qualifiers 1998,FIFA World Cup Qualifiers,True,Estadio Nacional de Perú,Lima,Peru,154,home,Juan Carlos Oblitas,Peru,10/11/1996
+M0382,Uruguay,CONMEBOL,0,2,0,2,L,,L,FIFA World Cup Qualifiers 1998,FIFA World Cup Qualifiers,True,Estadio Centenario (Montevideo),Montevideo,Uruguay,43,away,Juan Carlos Oblitas,Peru,15/12/1996
+M0383,Chile,CONMEBOL,2,1,2,1,W,,W,FIFA World Cup Qualifiers 1998,FIFA World Cup Qualifiers,True,Estadio Nacional de Perú,Lima,Peru,154,home,Juan Carlos Oblitas,Peru,12/01/1997
+M0384,United States,CONCACAF,1,0,1,0,W,,W,US Cup 1997,US Cup,False,San Diego Stadium,San Diego,United States,22,away,Juan Carlos Oblitas,Peru,17/01/1997
+M0385,Denmark,UEFA,1,2,1,2,L,,L,US Cup 1997,US Cup,False,Rose Bowl Stadium,Pasadena,United States,263,neutral,Juan Carlos Oblitas,Peru,19/01/1997
+M0386,Mexico,CONCACAF,0,0,0,0,D,,D,US Cup 1997,US Cup,False,Rose Bowl Stadium,Pasadena,United States,263,neutral,Juan Carlos Oblitas,Peru,22/01/1997
+M0387,Paraguay,CONMEBOL,1,2,1,2,L,,L,FIFA World Cup Qualifiers 1998,FIFA World Cup Qualifiers,True,Estadio Defensores del Chaco,Asuncion,Paraguay,89,away,Juan Carlos Oblitas,Peru,12/02/1997
+M0388,Ecuador,CONMEBOL,1,1,1,1,D,,D,FIFA World Cup Qualifiers 1998,FIFA World Cup Qualifiers,True,Estadio Nacional de Perú,Lima,Peru,154,home,Juan Carlos Oblitas,Peru,02/04/1997
+M0389,Colombia,CONMEBOL,1,0,1,0,W,,W,FIFA World Cup Qualifiers 1998,FIFA World Cup Qualifiers,True,Estadio Metropolitano de Barranquilla,Barranquilla,Colombia,18,away,Juan Carlos Oblitas,Peru,30/04/1997
+M0390,Argentina,CONMEBOL,0,2,0,2,L,,L,FIFA World Cup Qualifiers 1998,FIFA World Cup Qualifiers,True,Estadio Monumental Antonio Vespucio Liberti,Buenos Aires,Argentina,25,away,Juan Carlos Oblitas,Peru,08/06/1997
+M0391,Uruguay,CONMEBOL,1,0,1,0,W,,W,Copa América 1997,Copa América/Sudamericano,True,Estadio Olímpico Patria,Sucre,Bolivia,2790,neutral,Freddy Ternero,Peru,12/06/1997
+M0392,Bolivia,CONMEBOL,0,2,0,2,L,,L,Copa América 1997,Copa América/Sudamericano,True,Estadio Hernando Siles,La Paz,Bolivia,3625,away,Freddy Ternero,Peru,15/06/1997
+M0393,Venezuela,CONMEBOL,2,0,2,0,W,,W,Copa América 1997,Copa América/Sudamericano,True,Estadio Olímpico Patria,Sucre,Bolivia,2790,neutral,Freddy Ternero,Peru,18/06/1997
+M0394,Argentina,CONMEBOL,2,1,2,1,W,,W,Copa América 1997,Copa América/Sudamericano,True,Estadio Olímpico Patria,Sucre,Bolivia,2790,neutral,Freddy Ternero,Peru,21/06/1997
+M0395,Brazil,CONMEBOL,0,7,0,7,L,,L,Copa América 1997,Copa América/Sudamericano,True,Estadio Ramón Tahuichi Aguilera Costas,Santa Cruz,Bolivia,416,neutral,Freddy Ternero,Peru,26/06/1997
+M0396,Mexico,CONCACAF,0,1,0,1,L,,L,Copa América 1997,Copa América/Sudamericano,True,Estadio Jesús Bermúdez,Oruro,Bolivia,3735,neutral,Freddy Ternero,Peru,28/06/1997
+M0397,Bolivia,CONMEBOL,2,1,2,1,W,,W,FIFA World Cup Qualifiers 1998,FIFA World Cup Qualifiers,True,Estadio Nacional de Perú,Lima,Peru,154,home,Juan Carlos Oblitas,Peru,06/07/1997
+M0398,Venezuela,CONMEBOL,3,0,3,0,W,,W,FIFA World Cup Qualifiers 1998,FIFA World Cup Qualifiers,True,Estadio Agustín Tovar,Barinas,Venezuela,187,away,Juan Carlos Oblitas,Peru,20/08/1997
+M0399,Colombia,CONMEBOL,2,1,2,1,W,,W,Copa 75 Aniversario de la FPF,Copa 75 Aniversario de la FPF,False,Estadio Nacional de Perú,Lima,Peru,154,home,Juan Carlos Oblitas,Peru,24/08/1997
+M0400,Uruguay,CONMEBOL,2,1,2,1,W,,W,FIFA World Cup Qualifiers 1998,FIFA World Cup Qualifiers,True,Estadio Nacional de Perú,Lima,Peru,154,home,Juan Carlos Oblitas,Peru,10/09/1997
+M0401,Chile,CONMEBOL,0,4,0,4,L,,L,FIFA World Cup Qualifiers 1998,FIFA World Cup Qualifiers,True,Estadio Nacional de Chile,Santiago,Chile,520,away,Juan Carlos Oblitas,Peru,12/10/1997
+M0402,Paraguay,CONMEBOL,1,0,1,0,W,,W,FIFA World Cup Qualifiers 1998,FIFA World Cup Qualifiers,True,Estadio Nacional de Perú,Lima,Peru,154,home,Juan Carlos Oblitas,Peru,16/11/1997
+M0403,Mexico,CONCACAF,0,1,0,1,L,,L,Amistoso,Amistoso,False,Los Angeles Memorial Coliseum,Los Angeles,United States,93,neutral,Juan Carlos Oblitas,Peru,15/04/1998
+M0404,Netherlands,UEFA,0,2,0,2,L,,L,Amistoso,Amistoso,False,Philips Stadion,Eindhoven,Netherlands,18,away,Juan Carlos Oblitas,Peru,10/10/1998
+M0405,Ecuador,CONMEBOL,1,2,1,2,L,,L,Amistoso,Amistoso,False,Estadio Nacional de Perú,Lima,Peru,154,home,Juan Carlos Oblitas,Peru,10/02/1999
+M0406,Ecuador,CONMEBOL,2,1,2,1,W,,W,Amistoso,Amistoso,False,Estadio Monumental Isidro Romero,Guayaquil,Ecuador,4,away,Juan Carlos Oblitas,Peru,17/02/1999
+M0407,Belgium,UEFA,1,1,1,1,D,,D,Kirin Cup 1999,Kirin Cup,False,Takebishi Stadium Kyoto,Kyoto,Japan,311,neutral,Juan Carlos Oblitas,Peru,30/05/1999
+M0408,Japan,AFC,0,0,0,0,D,,D,Kirin Cup 1999,Kirin Cup,False,International Stadium Yokohama,Yokohama,Japan,5,away,Juan Carlos Oblitas,Peru,06/06/1999
+M0409,Colombia,CONMEBOL,3,3,3,3,D,,D,Amistoso,Amistoso,False,Estadio Palogrande,Manizales,Colombia,2153,away,Juan Carlos Oblitas,Peru,17/06/1999
+M0410,Venezuela,CONMEBOL,0,3,0,3,L,,L,Amistoso,Amistoso,False,Estadio Misael Delgado,Valencia,Venezuela,609,away,Juan Carlos Oblitas,Peru,20/06/1999
+M0411,Venezuela,CONMEBOL,3,0,3,0,W,,W,Amistoso,Amistoso,False,Estadio Alejandro Villanueva,Lima,Peru,154,home,Juan Carlos Oblitas,Peru,23/06/1999
+M0412,Japan,AFC,3,2,3,2,W,,W,Copa América 1999,Copa América/Sudamericano,True,Estadio Defensores del Chaco,Asuncion,Paraguay,89,neutral,Juan Carlos Oblitas,Peru,29/06/1999
+M0413,Bolivia,CONMEBOL,1,0,1,0,W,,W,Copa América 1999,Copa América/Sudamericano,True,Estadio Defensores del Chaco,Asuncion,Paraguay,89,neutral,Juan Carlos Oblitas,Peru,02/07/1999
+M0414,Paraguay,CONMEBOL,0,1,0,1,L,,L,Copa América 1999,Copa América/Sudamericano,True,Estadio Río Parapití,Pedro Juan Caballero,Paraguay,670,away,Juan Carlos Oblitas,Peru,05/07/1999
+M0415,Mexico,CONCACAF,3,3,3,3,D,L,L,Copa América 1999,Copa América/Sudamericano,True,Estadio Defensores del Chaco,Asuncion,Paraguay,89,neutral,Juan Carlos Oblitas,Peru,10/07/1999
+M0416,Slovakia,UEFA,2,1,2,1,W,,W,Amistoso,Amistoso,False,Estadio Nacional de Perú,Lima,Peru,154,home,Francisco Maturana,Colombia,17/11/1999
+M0417,Honduras,CONCACAF,0,0,0,0,D,,D,Amistoso,Amistoso,False,Estadio Nacional de Perú,Lima,Peru,154,home,Francisco Maturana,Colombia,01/12/1999
+M0418,Haiti,CONCACAF,1,1,1,1,D,,D,Copa Oro CONCACAF 2000,Copa Oro CONCACAF,True,Miami Orange Bowl,Miami,United States,2,neutral,Francisco Maturana,Colombia,14/02/2000
+M0419,United States,CONCACAF,0,1,0,1,L,,L,Copa Oro CONCACAF 2000,Copa Oro CONCACAF,True,Miami Orange Bowl,Miami,United States,2,away,Francisco Maturana,Colombia,16/02/2000
+M0420,Honduras,CONCACAF,5,3,5,3,W,,W,Copa Oro CONCACAF 2000,Copa Oro CONCACAF,True,Miami Orange Bowl,Miami,United States,2,neutral,Francisco Maturana,Colombia,19/02/2000
+M0421,Colombia,CONMEBOL,1,2,1,2,L,,L,Copa Oro CONCACAF 2000,Copa Oro CONCACAF,True,San Diego Stadium,San Diego,United States,22,neutral,Francisco Maturana,Colombia,23/02/2000
+M0422,Paraguay,CONMEBOL,2,0,2,0,W,,W,FIFA World Cup Qualifiers 2002,FIFA World Cup Qualifiers,True,Estadio Nacional de Perú,Lima,Peru,154,home,Francisco Maturana,Colombia,29/03/2000
+M0423,Chile,CONMEBOL,1,1,1,1,D,,D,FIFA World Cup Qualifiers 2002,FIFA World Cup Qualifiers,True,Estadio Nacional de Chile,Santiago,Chile,520,away,Francisco Maturana,Colombia,26/04/2000
+M0424,Brazil,CONMEBOL,0,1,0,1,L,,L,FIFA World Cup Qualifiers 2002,FIFA World Cup Qualifiers,True,Estadio Nacional de Perú,Lima,Peru,154,home,Francisco Maturana,Colombia,04/06/2000
+M0425,Ecuador,CONMEBOL,1,2,1,2,L,,L,FIFA World Cup Qualifiers 2002,FIFA World Cup Qualifiers,True,Estadio Olímpico Atahualpa,Quito,Ecuador,2850,away,Francisco Maturana,Colombia,29/06/2000
+M0426,Colombia,CONMEBOL,0,1,0,1,L,,L,FIFA World Cup Qualifiers 2002,FIFA World Cup Qualifiers,True,Estadio Nacional de Perú,Lima,Peru,154,home,Francisco Maturana,Colombia,19/07/2000
+M0427,Uruguay,CONMEBOL,0,0,0,0,D,,D,FIFA World Cup Qualifiers 2002,FIFA World Cup Qualifiers,True,Estadio Centenario (Montevideo),Montevideo,Uruguay,43,away,Francisco Maturana,Colombia,26/07/2000
+M0428,Venezuela,CONMEBOL,1,0,1,0,W,,W,FIFA World Cup Qualifiers 2002,FIFA World Cup Qualifiers,True,Estadio Nacional de Perú,Lima,Peru,154,home,Francisco Maturana,Colombia,16/08/2000
+M0429,Argentina,CONMEBOL,1,2,1,2,L,,L,FIFA World Cup Qualifiers 2002,FIFA World Cup Qualifiers,True,Estadio Nacional de Perú,Lima,Peru,154,home,Francisco Maturana,Colombia,03/09/2000
+M0430,Bolivia,CONMEBOL,0,1,0,1,L,,L,FIFA World Cup Qualifiers 2002,FIFA World Cup Qualifiers,True,Estadio Hernando Siles,La Paz,Bolivia,3625,away,Julio César Uribe,Peru,08/10/2000
+M0431,Paraguay,CONMEBOL,1,5,1,5,L,,L,FIFA World Cup Qualifiers 2002,FIFA World Cup Qualifiers,True,Estadio Defensores del Chaco,Asuncion,Paraguay,89,away,Julio César Uribe,Peru,15/11/2000
+M0432,Honduras,CONCACAF,0,0,0,0,D,,D,Amistoso,Amistoso,False,Miami Orange Bowl,Miami,United States,2,neutral,Julio César Uribe,Peru,07/03/2001
+M0433,Chile,CONMEBOL,3,1,3,1,W,,W,FIFA World Cup Qualifiers 2002,FIFA World Cup Qualifiers,True,Estadio Nacional de Perú,Lima,Peru,154,home,Julio César Uribe,Peru,27/03/2001
+M0434,Brazil,CONMEBOL,1,1,1,1,D,,D,FIFA World Cup Qualifiers 2002,FIFA World Cup Qualifiers,True,Estádio do Morumbi,Sao Paulo,Brazil,772,away,Julio César Uribe,Peru,25/04/2001
+M0435,Ecuador,CONMEBOL,1,2,1,2,L,,L,FIFA World Cup Qualifiers 2002,FIFA World Cup Qualifiers,True,Estadio Nacional de Perú,Lima,Peru,154,home,Julio César Uribe,Peru,02/06/2001
+M0436,Paraguay,CONMEBOL,3,3,3,3,D,,D,Copa América 2001,Copa América/Sudamericano,True,Estadio Olímpico Pascual Guerrero,Cali,Colombia,1018,neutral,Julio César Uribe,Peru,12/07/2001
+M0437,Brazil,CONMEBOL,0,2,0,2,L,,L,Copa América 2001,Copa América/Sudamericano,True,Estadio Olímpico Pascual Guerrero,Cali,Colombia,1018,neutral,Julio César Uribe,Peru,15/07/2001
+M0438,Mexico,CONCACAF,1,0,1,0,W,,W,Copa América 2001,Copa América/Sudamericano,True,Estadio Olímpico Pascual Guerrero,Cali,Colombia,1018,neutral,Julio César Uribe,Peru,18/07/2001
+M0439,Colombia,CONMEBOL,0,3,0,3,L,,L,Copa América 2001,Copa América/Sudamericano,True,Estadio Centenario de Armenia,Armenia,Colombia,1551,away,Julio César Uribe,Peru,23/07/2001
+M0440,Colombia,CONMEBOL,1,0,1,0,W,,W,FIFA World Cup Qualifiers 2002,FIFA World Cup Qualifiers,True,Estadio El Campín,Bogota,Colombia,2582,away,Julio César Uribe,Peru,16/08/2001
+M0441,Uruguay,CONMEBOL,0,2,0,2,L,,L,FIFA World Cup Qualifiers 2002,FIFA World Cup Qualifiers,True,Estadio Nacional de Perú,Lima,Peru,154,home,Julio César Uribe,Peru,04/09/2001
+M0442,Venezuela,CONMEBOL,0,3,0,3,L,,L,FIFA World Cup Qualifiers 2002,FIFA World Cup Qualifiers,True,Polideportivo de Pueblo Nuevo,San Cristobal,Venezuela,900,away,Julio César Uribe,Peru,06/10/2001
+M0443,Argentina,CONMEBOL,0,2,0,2,L,,L,FIFA World Cup Qualifiers 2002,FIFA World Cup Qualifiers,True,Estadio Monumental Antonio Vespucio Liberti,Buenos Aires,Argentina,25,away,Julio César Uribe,Peru,08/11/2001
+M0444,Bolivia,CONMEBOL,1,1,1,1,D,,D,FIFA World Cup Qualifiers 2002,FIFA World Cup Qualifiers,True,Estadio Monumental U,Lima,Peru,154,home,Julio César Uribe,Peru,14/11/2001
+M0445,Haiti,CONCACAF,5,1,5,1,W,,W,Amistoso,Amistoso,False,Estadio Alejandro Villanueva,Lima,Peru,154,home,Paulo Autuori,Brazil,23/02/2003
+M0446,Chile,CONMEBOL,0,2,0,2,L,,L,Amistoso,Amistoso,False,Estadio Nacional de Chile,Santiago,Chile,520,away,Paulo Autuori,Brazil,30/03/2003
+M0447,Chile,CONMEBOL,3,0,3,0,W,,W,Amistoso,Amistoso,False,Estadio Nacional de Perú,Lima,Peru,154,home,Paulo Autuori,Brazil,02/04/2003
+M0448,Paraguay,CONMEBOL,0,1,0,1,L,,L,Amistoso,Amistoso,False,Estadio Nacional de Perú,Lima,Peru,154,home,Paulo Autuori,Brazil,30/04/2003
+M0449,Ecuador,CONMEBOL,2,2,2,2,D,,D,Amistoso,Amistoso,False,MetLife Stadium,East Rutherford,United States,1,neutral,Paulo Autuori,Brazil,11/06/2003
+M0450,Venezuela,CONMEBOL,1,0,1,0,W,,W,Amistoso,Amistoso,False,Miami Orange Bowl,Miami,United States,2,neutral,Paulo Autuori,Brazil,26/06/2003
+M0451,Guatemala,CONCACAF,2,1,2,1,W,,W,Amistoso,Amistoso,False,Candlestick Park,San Francisco,United States,16,neutral,Paulo Autuori,Brazil,02/07/2003
+M0452,Uruguay,CONMEBOL,3,4,3,4,L,,L,Amistoso,Amistoso,False,Estadio Nacional de Perú,Lima,Peru,154,home,Paulo Autuori,Brazil,24/07/2003
+M0453,Uruguay,CONMEBOL,0,1,0,1,L,,L,Amistoso,Amistoso,False,Estadio Centenario (Montevideo),Montevideo,Uruguay,43,away,Paulo Autuori,Brazil,30/07/2003
+M0454,Mexico,CONCACAF,3,1,3,1,W,,W,Amistoso,Amistoso,False,MetLife Stadium,East Rutherford,United States,1,neutral,Paulo Autuori,Brazil,20/08/2003
+M0455,Guatemala,CONCACAF,0,0,0,0,D,,D,Amistoso,Amistoso,False,Estadio Nacional de Perú,Lima,Peru,154,home,Paulo Autuori,Brazil,27/08/2003
+M0456,Paraguay,CONMEBOL,4,1,4,1,W,,W,FIFA World Cup Qualifiers 2006,FIFA World Cup Qualifiers,True,Estadio Nacional de Perú,Lima,Peru,154,home,Paulo Autuori,Brazil,06/09/2003
+M0457,Chile,CONMEBOL,1,2,1,2,L,,L,FIFA World Cup Qualifiers 2006,FIFA World Cup Qualifiers,True,Estadio Nacional de Chile,Santiago,Chile,520,away,Paulo Autuori,Brazil,09/09/2003
+M0458,Brazil,CONMEBOL,1,1,1,1,D,,D,FIFA World Cup Qualifiers 2006,FIFA World Cup Qualifiers,True,Estadio Monumental U,Lima,Peru,154,home,Paulo Autuori,Brazil,16/11/2003
+M0459,Ecuador,CONMEBOL,0,0,0,0,D,,D,FIFA World Cup Qualifiers 2006,FIFA World Cup Qualifiers,True,Estadio Olímpico Atahualpa,Quito,Ecuador,2850,away,Paulo Autuori,Brazil,19/11/2003
+M0460,Spain,UEFA,1,2,1,2,L,,L,Amistoso,Amistoso,False,Estadio Olímpico Lluís Companys,Barcelona,Spain,13,away,Paulo Autuori,Brazil,18/02/2004
+M0461,Colombia,CONMEBOL,0,2,0,2,L,,L,FIFA World Cup Qualifiers 2006,FIFA World Cup Qualifiers,True,Estadio Nacional de Perú,Lima,Peru,154,home,Paulo Autuori,Brazil,31/03/2004
+M0462,Chile,CONMEBOL,1,1,1,1,D,,D,Amistoso,Amistoso,False,Estadio Regional de Antofagasta,Antofagasta,Chile,40,away,Paulo Autuori,Brazil,28/04/2004
+M0463,Uruguay,CONMEBOL,3,1,3,1,W,,W,FIFA World Cup Qualifiers 2006,FIFA World Cup Qualifiers,True,Estadio Centenario (Montevideo),Montevideo,Uruguay,43,away,Paulo Autuori,Brazil,01/06/2004
+M0464,Venezuela,CONMEBOL,0,0,0,0,D,,D,FIFA World Cup Qualifiers 2006,FIFA World Cup Qualifiers,True,Estadio Nacional de Perú,Lima,Peru,154,home,Paulo Autuori,Brazil,06/06/2004
+M0465,Argentina,CONMEBOL,1,2,1,2,L,,L,Amistoso,Amistoso,False,MetLife Stadium,East Rutherford,United States,1,neutral,Paulo Autuori,Brazil,30/06/2004
+M0466,Bolivia,CONMEBOL,2,2,2,2,D,,D,Copa América 2004,Copa América/Sudamericano,True,Estadio Nacional de Perú,Lima,Peru,154,home,Paulo Autuori,Brazil,06/07/2004
+M0467,Venezuela,CONMEBOL,3,1,3,1,W,,W,Copa América 2004,Copa América/Sudamericano,True,Estadio Nacional de Perú,Lima,Peru,154,home,Paulo Autuori,Brazil,09/07/2004
+M0468,Colombia,CONMEBOL,2,2,2,2,D,,D,Copa América 2004,Copa América/Sudamericano,True,Estadio Mansiche,Trujillo,Peru,34,home,Paulo Autuori,Brazil,12/07/2004
+M0469,Argentina,CONMEBOL,0,1,0,1,L,,L,Copa América 2004,Copa América/Sudamericano,True,Estadio Elías Aguirre,Chiclayo,Peru,27,home,Paulo Autuori,Brazil,17/07/2004
+M0470,Argentina,CONMEBOL,1,3,1,3,L,,L,FIFA World Cup Qualifiers 2006,FIFA World Cup Qualifiers,True,Estadio Monumental U,Lima,Peru,154,home,Paulo Autuori,Brazil,04/09/2004
+M0471,Bolivia,CONMEBOL,0,1,0,1,L,,L,FIFA World Cup Qualifiers 2006,FIFA World Cup Qualifiers,True,Estadio Hernando Siles,La Paz,Bolivia,3625,away,Paulo Autuori,Brazil,09/10/2004
+M0472,Paraguay,CONMEBOL,1,1,1,1,D,,D,FIFA World Cup Qualifiers 2006,FIFA World Cup Qualifiers,True,Estadio Defensores del Chaco,Asuncion,Paraguay,89,away,Paulo Autuori,Brazil,13/10/2004
+M0473,Chile,CONMEBOL,2,1,2,1,W,,W,FIFA World Cup Qualifiers 2006,FIFA World Cup Qualifiers,True,Estadio Nacional de Perú,Lima,Peru,154,home,Paulo Autuori,Brazil,17/11/2004
+M0474,Brazil,CONMEBOL,0,1,0,1,L,,L,FIFA World Cup Qualifiers 2006,FIFA World Cup Qualifiers,True,Estádio Serra Dourada,Goiania,Brazil,749,away,Paulo Autuori,Brazil,27/03/2005
+M0475,Ecuador,CONMEBOL,2,2,2,2,D,,D,FIFA World Cup Qualifiers 2006,FIFA World Cup Qualifiers,True,Estadio Nacional de Perú,Lima,Peru,154,home,Paulo Autuori,Brazil,30/03/2005
+M0476,Japan,AFC,1,0,1,0,W,,W,Kirin Cup 2005,Kirin Cup,False,Denka Big Swan Stadium,Niigata,Japan,3,away,Freddy Ternero,Peru,22/05/2005
+M0477,UAE,AFC,0,0,0,0,D,,D,Kirin Cup 2005,Kirin Cup,False,Toyota Stadium,Toyota,Japan,45,neutral,Freddy Ternero,Peru,24/05/2005
+M0478,Colombia,CONMEBOL,0,5,0,5,L,,L,FIFA World Cup Qualifiers 2006,FIFA World Cup Qualifiers,True,Estadio Metropolitano de Barranquilla,Barranquilla,Colombia,18,away,Freddy Ternero,Peru,04/06/2005
+M0479,Uruguay,CONMEBOL,0,0,0,0,D,,D,FIFA World Cup Qualifiers 2006,FIFA World Cup Qualifiers,True,Estadio Nacional de Perú,Lima,Peru,154,home,Freddy Ternero,Peru,07/06/2005
+M0480,Chile,CONMEBOL,3,1,3,1,W,,W,Amistoso,Amistoso,False,Estadio Jorge Basadre,Tacna,Peru,562,home,Freddy Ternero,Peru,17/08/2005
+M0481,Venezuela,CONMEBOL,1,4,1,4,L,,L,FIFA World Cup Qualifiers 2006,FIFA World Cup Qualifiers,True,Estadio José Encarnación Romero,Maracaibo,Venezuela,15,away,Freddy Ternero,Peru,03/09/2005
+M0482,Argentina,CONMEBOL,0,2,0,2,L,,L,FIFA World Cup Qualifiers 2006,FIFA World Cup Qualifiers,True,Estadio Monumental Antonio Vespucio Liberti,Buenos Aires,Argentina,25,away,Freddy Ternero,Peru,09/10/2005
+M0483,Bolivia,CONMEBOL,4,1,4,1,W,,W,FIFA World Cup Qualifiers 2006,FIFA World Cup Qualifiers,True,Estadio Jorge Basadre,Tacna,Peru,562,home,Freddy Ternero,Peru,12/10/2005
+M0484,Trinidad and Tobago,CONCACAF,1,1,1,1,D,,D,Amistoso,Amistoso,False,Hasely Crawford Stadium,Port of Spain,Trinidad and Tobago,3,away,Franco Navarro,Peru,10/05/2006
+M0485,Panama,CONCACAF,0,2,0,2,L,,L,Amistoso,Amistoso,False,Estadio Nacional de Perú,Lima,Peru,154,home,Franco Navarro,Peru,16/08/2006
+M0486,Ecuador,CONMEBOL,1,1,1,1,D,,D,Amistoso,Amistoso,False,MetLife Stadium,East Rutherford,United States,1,neutral,Franco Navarro,Peru,06/09/2006
+M0487,Chile,CONMEBOL,2,3,2,3,L,,L,Copa del Pacífico 2006,Copa del Pacífico,False,Estadio Sausalito,Viña del Mar,Chile,2,away,Franco Navarro,Peru,07/10/2006
+M0488,Chile,CONMEBOL,0,1,0,1,L,,L,Copa del Pacífico 2006,Copa del Pacífico,False,Estadio Jorge Basadre,Tacna,Peru,562,home,Franco Navarro,Peru,11/10/2006
+M0489,Jamaica,CONCACAF,1,1,1,1,D,,D,Amistoso,Amistoso,False,National Stadium Kingston,Kingston,Jamaica,9,away,Franco Navarro,Peru,15/11/2006
+M0490,Panama,CONCACAF,2,1,2,1,W,,W,Amistoso,Amistoso,False,Estadio Rommel Fernández,Panama City,Panama,2,away,Franco Navarro,Peru,19/11/2006
+M0491,Japan,AFC,0,2,0,2,L,,L,Amistoso,Amistoso,False,International Stadium Yokohama,Yokohama,Japan,5,away,Julio César Uribe,Peru,24/03/2007
+M0492,Ecuador,CONMEBOL,2,1,2,1,W,,W,Amistoso,Amistoso,False,Estadio Vicente Calderón,Madrid,Spain,657,neutral,Julio César Uribe,Peru,03/06/2007
+M0493,Ecuador,CONMEBOL,0,2,0,2,L,,L,Amistoso,Amistoso,False,Miniestadi,Barcelona,Spain,13,neutral,Julio César Uribe,Peru,06/06/2007
+M0494,Uruguay,CONMEBOL,3,0,3,0,W,,W,Copa América 2007,Copa América/Sudamericano,True,Estadio Metropolitano de Mérida,Merida,Venezuela,1630,neutral,Julio César Uribe,Peru,26/06/2007
+M0495,Venezuela,CONMEBOL,0,2,0,2,L,,L,Copa América 2007,Copa América/Sudamericano,True,Polideportivo de Pueblo Nuevo,San Cristobal,Venezuela,900,away,Julio César Uribe,Peru,30/06/2007
+M0496,Bolivia,CONMEBOL,2,2,2,2,D,,D,Copa América 2007,Copa América/Sudamericano,True,Estadio Metropolitano de Mérida,Merida,Venezuela,1630,neutral,Julio César Uribe,Peru,03/07/2007
+M0497,Argentina,CONMEBOL,0,4,0,4,L,,L,Copa América 2007,Copa América/Sudamericano,True,Estadio Metropolitano de Barquisimeto,Barquisimeto,Venezuela,640,neutral,Julio César Uribe,Peru,08/07/2007
+M0498,Costa Rica,CONCACAF,1,1,1,1,D,,D,Amistoso,Amistoso,False,Estadio Ricardo Saprissa,San Jose,Costa Rica,1172,away,José Guillermo del Solar,Peru,22/08/2007
+M0499,Colombia,CONMEBOL,2,2,2,2,D,,D,Amistoso,Amistoso,False,Estadio Monumental U,Lima,Peru,154,home,José Guillermo del Solar,Peru,08/09/2007
+M0500,Bolivia,CONMEBOL,2,0,2,0,W,,W,Amistoso,Amistoso,False,Estadio Monumental U,Lima,Peru,154,home,José Guillermo del Solar,Peru,12/09/2007
+M0501,Paraguay,CONMEBOL,0,0,0,0,D,,D,FIFA World Cup Qualifiers 2010,FIFA World Cup Qualifiers,True,Estadio Monumental U,Lima,Peru,154,home,José Guillermo del Solar,Peru,13/10/2007
+M0502,Chile,CONMEBOL,0,2,0,2,L,,L,FIFA World Cup Qualifiers 2010,FIFA World Cup Qualifiers,True,Estadio Nacional de Chile,Santiago,Chile,520,away,José Guillermo del Solar,Peru,17/10/2007
+M0503,Brazil,CONMEBOL,1,1,1,1,D,,D,FIFA World Cup Qualifiers 2010,FIFA World Cup Qualifiers,True,Estadio Monumental U,Lima,Peru,154,home,José Guillermo del Solar,Peru,18/11/2007
+M0504,Ecuador,CONMEBOL,1,5,1,5,L,,L,FIFA World Cup Qualifiers 2010,FIFA World Cup Qualifiers,True,Estadio Olímpico Atahualpa,Quito,Ecuador,2850,away,José Guillermo del Solar,Peru,21/11/2007
+M0505,Bolivia,CONMEBOL,1,2,1,2,L,,L,Amistoso,Amistoso,False,Estadio Hernando Siles,La Paz,Bolivia,3625,away,José Guillermo del Solar,Peru,06/02/2008
+M0506,Costa Rica,CONCACAF,3,1,3,1,W,,W,Amistoso,Amistoso,False,Estadio Max Augustín,Iquitos,Peru,105,home,José Guillermo del Solar,Peru,26/03/2008
+M0507,Spain,UEFA,1,2,1,2,L,,L,Amistoso,Amistoso,False,Estadio Nuevo Colombino,Huelva,Spain,24,away,José Guillermo del Solar,Peru,31/05/2008
+M0508,Mexico,CONCACAF,0,4,0,4,L,,L,Amistoso,Amistoso,False,Soldier Field,Chicago,United States,182,neutral,José Guillermo del Solar,Peru,08/06/2008
+M0509,Colombia,CONMEBOL,1,1,1,1,D,,D,FIFA World Cup Qualifiers 2010,FIFA World Cup Qualifiers,True,Estadio Monumental U,Lima,Peru,154,home,José Guillermo del Solar,Peru,14/06/2008
+M0510,Uruguay,CONMEBOL,0,6,0,6,L,,L,FIFA World Cup Qualifiers 2010,FIFA World Cup Qualifiers,True,Estadio Centenario (Montevideo),Montevideo,Uruguay,43,away,José Guillermo del Solar,Peru,17/06/2008
+M0511,Venezuela,CONMEBOL,1,0,1,0,W,,W,FIFA World Cup Qualifiers 2010,FIFA World Cup Qualifiers,True,Estadio Monumental U,Lima,Peru,154,home,José Guillermo del Solar,Peru,06/09/2008
+M0512,Argentina,CONMEBOL,1,1,1,1,D,,D,FIFA World Cup Qualifiers 2010,FIFA World Cup Qualifiers,True,Estadio Monumental U,Lima,Peru,154,home,José Guillermo del Solar,Peru,10/09/2008
+M0513,Bolivia,CONMEBOL,0,3,0,3,L,,L,FIFA World Cup Qualifiers 2010,FIFA World Cup Qualifiers,True,Estadio Hernando Siles,La Paz,Bolivia,3625,away,José Guillermo del Solar,Peru,11/10/2008
+M0514,Paraguay,CONMEBOL,0,1,0,1,L,,L,FIFA World Cup Qualifiers 2010,FIFA World Cup Qualifiers,True,Estadio Defensores del Chaco,Asuncion,Paraguay,89,away,José Guillermo del Solar,Peru,15/10/2008
+M0515,El Salvador,CONCACAF,0,1,0,1,L,,L,Amistoso,Amistoso,False,Los Angeles Memorial Coliseum,Los Angeles,United States,93,neutral,José Guillermo del Solar,Peru,06/02/2009
+M0516,Paraguay,CONMEBOL,0,1,0,1,L,,L,Amistoso,Amistoso,False,Estadio Alejandro Villanueva,Lima,Peru,154,home,José Guillermo del Solar,Peru,11/02/2009
+M0517,Chile,CONMEBOL,1,3,1,3,L,,L,FIFA World Cup Qualifiers 2010,FIFA World Cup Qualifiers,True,Estadio Monumental U,Lima,Peru,154,home,José Guillermo del Solar,Peru,29/03/2009
+M0518,Brazil,CONMEBOL,0,3,0,3,L,,L,FIFA World Cup Qualifiers 2010,FIFA World Cup Qualifiers,True,Estádio Beira-Rio,Porto Alegre,Brazil,10,away,José Guillermo del Solar,Peru,01/04/2009
+M0519,Ecuador,CONMEBOL,1,2,1,2,L,,L,FIFA World Cup Qualifiers 2010,FIFA World Cup Qualifiers,True,Estadio Monumental U,Lima,Peru,154,home,José Guillermo del Solar,Peru,07/06/2009
+M0520,Colombia,CONMEBOL,0,1,0,1,L,,L,FIFA World Cup Qualifiers 2010,FIFA World Cup Qualifiers,True,Estadio Atanasio Girardot,Medellin,Colombia,1495,away,José Guillermo del Solar,Peru,10/06/2009
+M0521,Uruguay,CONMEBOL,1,0,1,0,W,,W,FIFA World Cup Qualifiers 2010,FIFA World Cup Qualifiers,True,Estadio Monumental U,Lima,Peru,154,home,José Guillermo del Solar,Peru,05/09/2009
+M0522,Venezuela,CONMEBOL,1,3,1,3,L,,L,FIFA World Cup Qualifiers 2010,FIFA World Cup Qualifiers,True,Estadio General José Antonio Anzoátegui,Puerto La Cruz,Venezuela,16,away,José Guillermo del Solar,Peru,09/09/2009
+M0523,Argentina,CONMEBOL,1,2,1,2,L,,L,FIFA World Cup Qualifiers 2010,FIFA World Cup Qualifiers,True,Estadio Monumental Antonio Vespucio Liberti,Buenos Aires,Argentina,25,away,José Guillermo del Solar,Peru,10/10/2009
+M0524,Bolivia,CONMEBOL,1,0,1,0,W,,W,FIFA World Cup Qualifiers 2010,FIFA World Cup Qualifiers,True,Estadio Alejandro Villanueva,Lima,Peru,154,home,José Guillermo del Solar,Peru,14/10/2009
+M0525,Honduras,CONCACAF,2,1,2,1,W,,W,Amistoso,Amistoso,False,Hard Rock Stadium,Miami,United States,2,neutral,José Guillermo del Solar,Peru,18/11/2009
+M0526,Canada,CONCACAF,2,0,2,0,W,,W,Amistoso,Amistoso,False,BMO Field,Toronto,Canada,76,away,Sergio Markarián,Uruguay,04/09/2010
+M0527,Jamaica,CONCACAF,2,1,2,1,W,,W,Amistoso,Amistoso,False,Lockhart Stadium,Fort Lauderdale,United States,2,neutral,Sergio Markarián,Uruguay,07/09/2010
+M0528,Costa Rica,CONCACAF,2,0,2,0,W,,W,Amistoso,Amistoso,False,Estadio Alejandro Villanueva,Lima,Peru,154,home,Sergio Markarián,Uruguay,08/10/2010
+M0529,Panama,CONCACAF,0,1,0,1,L,,L,Amistoso,Amistoso,False,Estadio Rommel Fernández,Panama City,Panama,2,away,Sergio Markarián,Uruguay,12/10/2010
+M0530,Colombia,CONMEBOL,1,1,1,1,D,,D,Amistoso,Amistoso,False,Estadio El Campín,Bogota,Colombia,2582,away,Sergio Markarián,Uruguay,17/11/2010
+M0531,Panama,CONCACAF,1,0,1,0,W,,W,Amistoso,Amistoso,False,Estadio 25 de Noviembre,Moquegua,Peru,1410,home,Sergio Markarián,Uruguay,08/02/2011
+M0532,Ecuador,CONMEBOL,0,0,0,0,D,,D,Amistoso,Amistoso,False,ADO Den Haag Stadium,Den Haag,Netherlands,1,neutral,Sergio Markarián,Uruguay,29/03/2011
+M0533,Japan,AFC,0,0,0,0,D,,D,Kirin Cup 2011,Kirin Cup,False,Denka Big Swan Stadium,Niigata,Japan,3,away,Sergio Markarián,Uruguay,01/06/2011
+M0534,Czech Republic,UEFA,0,0,0,0,D,,D,Kirin Cup 2011,Kirin Cup,False,Sunpro Alwin,Nagano,Japan,350,neutral,Sergio Markarián,Uruguay,04/06/2011
+M0535,Uruguay,CONMEBOL,1,1,1,1,D,,D,Copa América 2011,Copa América/Sudamericano,True,Estadio Bicentenario,San Juan,Argentina,640,neutral,Sergio Markarián,Uruguay,04/07/2011
+M0536,Mexico,CONCACAF,1,0,1,0,W,,W,Copa América 2011,Copa América/Sudamericano,True,Estadio Malvinas Argentinas,Mendoza,Argentina,769,neutral,Sergio Markarián,Uruguay,08/07/2011
+M0537,Chile,CONMEBOL,0,1,0,1,L,,L,Copa América 2011,Copa América/Sudamericano,True,Estadio Malvinas Argentinas,Mendoza,Argentina,769,neutral,Sergio Markarián,Uruguay,12/07/2011
+M0538,Colombia,CONMEBOL,2,0,2,0,W,,W,Copa América 2011,Copa América/Sudamericano,True,Estadio Mario Kempes,Cordoba,Argentina,440,neutral,Sergio Markarián,Uruguay,16/07/2011
+M0539,Uruguay,CONMEBOL,0,2,0,2,L,,L,Copa América 2011,Copa América/Sudamericano,True,Estadio Único,La Plata,Argentina,26,neutral,Sergio Markarián,Uruguay,19/07/2011
+M0540,Venezuela,CONMEBOL,4,1,4,1,W,,W,Copa América 2011,Copa América/Sudamericano,True,Estadio Único,La Plata,Argentina,26,neutral,Sergio Markarián,Uruguay,23/07/2011
+M0541,Bolivia,CONMEBOL,2,2,2,2,D,,D,Amistoso,Amistoso,False,Estadio Nacional de Perú,Lima,Peru,154,home,Sergio Markarián,Uruguay,02/09/2011
+M0542,Bolivia,CONMEBOL,0,0,0,0,D,,D,Amistoso,Amistoso,False,Estadio Hernando Siles,La Paz,Bolivia,3625,away,Sergio Markarián,Uruguay,05/09/2011
+M0543,Paraguay,CONMEBOL,2,0,2,0,W,,W,FIFA World Cup Qualifiers 2014,FIFA World Cup Qualifiers,True,Estadio Nacional de Perú,Lima,Peru,154,home,Sergio Markarián,Uruguay,07/10/2011
+M0544,Chile,CONMEBOL,2,4,2,4,L,,L,FIFA World Cup Qualifiers 2014,FIFA World Cup Qualifiers,True,Estadio Monumental David Arellano,Santiago,Chile,520,away,Sergio Markarián,Uruguay,11/10/2011
+M0545,Ecuador,CONMEBOL,0,2,0,2,L,,L,FIFA World Cup Qualifiers 2014,FIFA World Cup Qualifiers,True,Estadio Olímpico Atahualpa,Quito,Ecuador,2850,away,Sergio Markarián,Uruguay,15/11/2011
+M0546,Tunisia,CAF,1,1,1,1,D,,D,Amistoso,Amistoso,False,El Menzah Stadium,Tunis,Tunisia,4,away,Sergio Markarián,Uruguay,29/02/2012
+M0547,Chile,CONMEBOL,1,3,1,3,L,,L,Copa del Pacífico 2012,Copa del Pacífico,False,Estadio Carlos Dittborn,Arica,Chile,2,away,Sergio Markarián,Uruguay,21/03/2012
+M0548,Chile,CONMEBOL,0,3,0,3,L,,L,Copa del Pacífico 2012,Copa del Pacífico,False,Estadio Jorge Basadre,Tacna,Peru,562,home,Sergio Markarián,Uruguay,11/04/2012
+M0549,Nigeria,CAF,1,0,1,0,W,,W,Amistoso,Amistoso,False,Estadio Nacional de Perú,Lima,Peru,154,home,Sergio Markarián,Uruguay,23/05/2012
+M0550,Colombia,CONMEBOL,0,1,0,1,L,,L,FIFA World Cup Qualifiers 2014,FIFA World Cup Qualifiers,True,Estadio Nacional de Perú,Lima,Peru,154,home,Sergio Markarián,Uruguay,03/06/2012
+M0551,Uruguay,CONMEBOL,2,4,2,4,L,,L,FIFA World Cup Qualifiers 2014,FIFA World Cup Qualifiers,True,Estadio Centenario (Montevideo),Montevideo,Uruguay,43,away,Sergio Markarián,Uruguay,10/06/2012
+M0552,Costa Rica,CONCACAF,1,0,1,0,W,,W,Amistoso,Amistoso,False,Estadio Nacional de Costa Rica,San Jose,Costa Rica,1172,away,Sergio Markarián,Uruguay,15/08/2012
+M0553,Venezuela,CONMEBOL,2,1,2,1,W,,W,FIFA World Cup Qualifiers 2014,FIFA World Cup Qualifiers,True,Estadio Nacional de Perú,Lima,Peru,154,home,Sergio Markarián,Uruguay,07/09/2012
+M0554,Argentina,CONMEBOL,1,1,1,1,D,,D,FIFA World Cup Qualifiers 2014,FIFA World Cup Qualifiers,True,Estadio Nacional de Perú,Lima,Peru,154,home,Sergio Markarián,Uruguay,11/09/2012
+M0555,Bolivia,CONMEBOL,1,1,1,1,D,,D,FIFA World Cup Qualifiers 2014,FIFA World Cup Qualifiers,True,Estadio Hernando Siles,La Paz,Bolivia,3625,away,Sergio Markarián,Uruguay,12/10/2012
+M0556,Paraguay,CONMEBOL,0,1,0,1,L,,L,FIFA World Cup Qualifiers 2014,FIFA World Cup Qualifiers,True,Estadio Defensores del Chaco,Asuncion,Paraguay,89,away,Sergio Markarián,Uruguay,16/10/2012
+M0557,Honduras,CONCACAF,0,0,0,0,D,,D,Amistoso,Amistoso,False,Shell Energy Stadium,Houston,United States,13,neutral,Sergio Markarián,Uruguay,14/11/2012
+M0558,Trinidad and Tobago,CONCACAF,2,0,2,0,W,,W,Amistoso,Amistoso,False,Ato Boldon Stadium,Couva,Trinidad and Tobago,47,away,Sergio Markarián,Uruguay,06/02/2013
+M0559,Chile,CONMEBOL,1,0,1,0,W,,W,FIFA World Cup Qualifiers 2014,FIFA World Cup Qualifiers,True,Estadio Nacional de Perú,Lima,Peru,154,home,Sergio Markarián,Uruguay,22/03/2013
+M0560,Trinidad and Tobago,CONCACAF,3,0,3,0,W,,W,Amistoso,Amistoso,False,Estadio Nacional de Perú,Lima,Peru,154,home,Sergio Markarián,Uruguay,26/03/2013
+M0561,Mexico,CONCACAF,0,0,0,0,D,,D,Amistoso,Amistoso,False,Candlestick Park,San Francisco,United States,16,neutral,Sergio Markarián,Uruguay,17/04/2013
+M0562,Panama,CONCACAF,2,1,2,1,W,,W,Amistoso,Amistoso,False,Estadio Rommel Fernández,Panama City,Panama,2,away,Sergio Markarián,Uruguay,01/06/2013
+M0563,Ecuador,CONMEBOL,1,0,1,0,W,,W,FIFA World Cup Qualifiers 2014,FIFA World Cup Qualifiers,True,Estadio Nacional de Perú,Lima,Peru,154,home,Sergio Markarián,Uruguay,07/06/2013
+M0564,Colombia,CONMEBOL,0,2,0,2,L,,L,FIFA World Cup Qualifiers 2014,FIFA World Cup Qualifiers,True,Estadio Metropolitano de Barranquilla,Barranquilla,Colombia,18,away,Sergio Markarián,Uruguay,11/06/2013
+M0565,South Korea,AFC,0,0,0,0,D,,D,Amistoso,Amistoso,False,Seoul World Cup Stadium,Seoul,South Korea,66,away,Sergio Markarián,Uruguay,14/08/2013
+M0566,Uruguay,CONMEBOL,1,2,1,2,L,,L,FIFA World Cup Qualifiers 2014,FIFA World Cup Qualifiers,True,Estadio Nacional de Perú,Lima,Peru,154,home,Sergio Markarián,Uruguay,06/09/2013
+M0567,Venezuela,CONMEBOL,2,3,2,3,L,,L,FIFA World Cup Qualifiers 2014,FIFA World Cup Qualifiers,True,Estadio General José Antonio Anzoátegui,Puerto La Cruz,Venezuela,16,away,Sergio Markarián,Uruguay,10/09/2013
+M0568,Argentina,CONMEBOL,1,3,1,3,L,,L,FIFA World Cup Qualifiers 2014,FIFA World Cup Qualifiers,True,Estadio Monumental Antonio Vespucio Liberti,Buenos Aires,Argentina,25,away,Sergio Markarián,Uruguay,11/10/2013
+M0569,Bolivia,CONMEBOL,1,1,1,1,D,,D,FIFA World Cup Qualifiers 2014,FIFA World Cup Qualifiers,True,Estadio Nacional de Perú,Lima,Peru,154,home,Sergio Markarián,Uruguay,15/10/2013
+M0570,England,UEFA,0,3,0,3,L,,L,Amistoso,Amistoso,False,Wembley Stadium,London,England,15,away,Pablo Bengoechea,Uruguay,30/05/2014
+M0571,Switzerland,UEFA,0,2,0,2,L,,L,Amistoso,Amistoso,False,Swissporarena,Luzern,Switzerland,436,away,Pablo Bengoechea,Uruguay,03/06/2014
+M0572,Panama,CONCACAF,3,0,3,0,W,,W,Amistoso,Amistoso,False,Estadio Nacional de Perú,Lima,Peru,154,home,Pablo Bengoechea,Uruguay,06/08/2014
+M0573,Iraq,AFC,2,0,2,0,W,,W,Amistoso,Amistoso,False,Maktoum Bin Rashid Al Maktoum Stadium,Dubai,UAE,11,neutral,Pablo Bengoechea,Uruguay,04/09/2014
+M0574,Qatar,AFC,2,0,2,0,W,,W,Amistoso,Amistoso,False,Lekhwiya Stadium,Doha,Qatar,0,away,Pablo Bengoechea,Uruguay,09/09/2014
+M0575,Chile,CONMEBOL,0,3,0,3,L,,L,Amistoso,Amistoso,False,Estadio Elías Figueroa,Valparaiso,Chile,10,away,Pablo Bengoechea,Uruguay,10/10/2014
+M0576,Guatemala,CONCACAF,1,0,1,0,W,,W,Amistoso,Amistoso,False,Estadio Alejandro Villanueva,Lima,Peru,154,home,Pablo Bengoechea,Uruguay,14/10/2014
+M0577,Paraguay,CONMEBOL,1,2,1,2,L,,L,Amistoso,Amistoso,False,Estadio Feliciano Cáceres,Luque,Paraguay,120,away,Pablo Bengoechea,Uruguay,14/11/2014
+M0578,Paraguay,CONMEBOL,2,1,2,1,W,,W,Amistoso,Amistoso,False,Estadio Nacional de Perú,Lima,Peru,154,home,Pablo Bengoechea,Uruguay,18/11/2014
+M0579,Venezuela,CONMEBOL,0,1,0,1,L,,L,Amistoso,Amistoso,False,Lockhart Stadium,Fort Lauderdale,United States,2,neutral,Ricardo Gareca,Argentina,31/03/2015
+M0580,Mexico,CONCACAF,1,1,1,1,D,,D,Amistoso,Amistoso,False,Estadio Nacional de Perú,Lima,Peru,154,home,Ricardo Gareca,Argentina,03/06/2015
+M0581,Brazil,CONMEBOL,1,2,1,2,L,,L,Copa América 2015,Copa América/Sudamericano,True,Estadio Municipal Germán Becker,Temuco,Chile,122,neutral,Ricardo Gareca,Argentina,14/06/2015
+M0582,Venezuela,CONMEBOL,1,0,1,0,W,,W,Copa América 2015,Copa América/Sudamericano,True,Estadio Elías Figueroa,Valparaiso,Chile,10,neutral,Ricardo Gareca,Argentina,18/06/2015
+M0583,Colombia,CONMEBOL,0,0,0,0,D,,D,Copa América 2015,Copa América/Sudamericano,True,Estadio Municipal Germán Becker,Temuco,Chile,122,neutral,Ricardo Gareca,Argentina,21/06/2015
+M0584,Bolivia,CONMEBOL,3,1,3,1,W,,W,Copa América 2015,Copa América/Sudamericano,True,Estadio Municipal Germán Becker,Temuco,Chile,122,neutral,Ricardo Gareca,Argentina,25/06/2015
+M0585,Chile,CONMEBOL,1,2,1,2,L,,L,Copa América 2015,Copa América/Sudamericano,True,Estadio Nacional de Chile,Santiago,Chile,520,away,Ricardo Gareca,Argentina,29/06/2015
+M0586,Paraguay,CONMEBOL,2,0,2,0,W,,W,Copa América 2015,Copa América/Sudamericano,True,Estadio Municipal de Collao,Concepcion,Chile,12,neutral,Ricardo Gareca,Argentina,03/07/2015
+M0587,United States,CONCACAF,1,2,1,2,L,,L,Amistoso,Amistoso,False,RFK Stadium,Washington D.C.,United States,72,away,Ricardo Gareca,Argentina,04/09/2015
+M0588,Colombia,CONMEBOL,1,1,1,1,D,,D,Amistoso,Amistoso,False,Red Bull Arena,Harrison,United States,6,neutral,Ricardo Gareca,Argentina,08/09/2015
+M0589,Colombia,CONMEBOL,0,2,0,2,L,,L,FIFA World Cup Qualifiers 2018,FIFA World Cup Qualifiers,True,Estadio Metropolitano de Barranquilla,Barranquilla,Colombia,18,away,Ricardo Gareca,Argentina,08/10/2015
+M0590,Chile,CONMEBOL,3,4,3,4,L,,L,FIFA World Cup Qualifiers 2018,FIFA World Cup Qualifiers,True,Estadio Nacional de Perú,Lima,Peru,154,home,Ricardo Gareca,Argentina,13/10/2015
+M0591,Paraguay,CONMEBOL,1,0,1,0,W,,W,FIFA World Cup Qualifiers 2018,FIFA World Cup Qualifiers,True,Estadio Nacional de Perú,Lima,Peru,154,home,Ricardo Gareca,Argentina,13/11/2015
+M0592,Brazil,CONMEBOL,0,3,0,3,L,,L,FIFA World Cup Qualifiers 2018,FIFA World Cup Qualifiers,True,Arena Fonte Nova,Salvador de Bahia,Brazil,8,away,Ricardo Gareca,Argentina,17/11/2015
+M0593,Venezuela,CONMEBOL,2,2,2,2,D,,D,FIFA World Cup Qualifiers 2018,FIFA World Cup Qualifiers,True,Estadio Nacional de Perú,Lima,Peru,154,home,Ricardo Gareca,Argentina,24/03/2016
+M0594,Uruguay,CONMEBOL,0,1,0,1,L,,L,FIFA World Cup Qualifiers 2018,FIFA World Cup Qualifiers,True,Estadio Centenario (Montevideo),Montevideo,Uruguay,43,away,Ricardo Gareca,Argentina,29/03/2016
+M0595,Trinidad and Tobago,CONCACAF,4,0,4,0,W,,W,Amistoso,Amistoso,False,Estadio Nacional de Perú,Lima,Peru,154,home,Ricardo Gareca,Argentina,23/05/2016
+M0596,El Salvador,CONCACAF,3,1,3,1,W,,W,Amistoso,Amistoso,False,RFK Stadium,Washington D.C.,United States,72,neutral,Ricardo Gareca,Argentina,28/05/2016
+M0597,Haiti,CONCACAF,1,0,1,0,W,,W,Copa América Centenario,Copa América/Sudamericano,True,Lumen Field,Seattle,United States,158,neutral,Ricardo Gareca,Argentina,04/06/2016
+M0598,Ecuador,CONMEBOL,2,2,2,2,D,,D,Copa América Centenario,Copa América/Sudamericano,True,University of Phoenix Stadium,Phoenix,United States,331,neutral,Ricardo Gareca,Argentina,08/06/2016
+M0599,Brazil,CONMEBOL,1,0,1,0,W,,W,Copa América Centenario,Copa América/Sudamericano,True,Gillette Stadium,Foxborough,United States,146,neutral,Ricardo Gareca,Argentina,12/06/2016
+M0600,Colombia,CONMEBOL,0,0,0,0,D,L,L,Copa América Centenario,Copa América/Sudamericano,True,MetLife Stadium,East Rutherford,United States,1,neutral,Ricardo Gareca,Argentina,17/06/2016
+M0601,Bolivia,CONMEBOL,0,2,3,0,L,,W,FIFA World Cup Qualifiers 2018,FIFA World Cup Qualifiers,True,Estadio Hernando Siles,La Paz,Bolivia,3625,away,Ricardo Gareca,Argentina,01/09/2016
+M0602,Ecuador,CONMEBOL,2,1,2,1,W,,W,FIFA World Cup Qualifiers 2018,FIFA World Cup Qualifiers,True,Estadio Nacional de Perú,Lima,Peru,154,home,Ricardo Gareca,Argentina,06/09/2016
+M0603,Argentina,CONMEBOL,2,2,2,2,D,,D,FIFA World Cup Qualifiers 2018,FIFA World Cup Qualifiers,True,Estadio Nacional de Perú,Lima,Peru,154,home,Ricardo Gareca,Argentina,06/10/2016
+M0604,Chile,CONMEBOL,1,2,1,2,L,,L,FIFA World Cup Qualifiers 2018,FIFA World Cup Qualifiers,True,Estadio Nacional de Chile,Santiago,Chile,520,away,Ricardo Gareca,Argentina,11/10/2016
+M0605,Paraguay,CONMEBOL,4,1,4,1,W,,W,FIFA World Cup Qualifiers 2018,FIFA World Cup Qualifiers,True,Estadio Defensores del Chaco,Asuncion,Paraguay,89,away,Ricardo Gareca,Argentina,10/11/2016
+M0606,Brazil,CONMEBOL,0,2,0,2,L,,L,FIFA World Cup Qualifiers 2018,FIFA World Cup Qualifiers,True,Estadio Nacional de Perú,Lima,Peru,154,home,Ricardo Gareca,Argentina,15/11/2016
+M0607,Venezuela,CONMEBOL,2,2,2,2,D,,D,FIFA World Cup Qualifiers 2018,FIFA World Cup Qualifiers,True,Estadio Monumental de Maturín,Maturin,Venezuela,67,away,Ricardo Gareca,Argentina,23/03/2017
+M0608,Uruguay,CONMEBOL,2,1,2,1,W,,W,FIFA World Cup Qualifiers 2018,FIFA World Cup Qualifiers,True,Estadio Nacional de Perú,Lima,Peru,154,home,Ricardo Gareca,Argentina,28/03/2017
+M0609,Paraguay,CONMEBOL,1,0,1,0,W,,W,Amistoso,Amistoso,False,Estadio Mansiche,Trujillo,Peru,34,home,Ricardo Gareca,Argentina,08/06/2017
+M0610,Jamaica,CONCACAF,3,1,3,1,W,,W,Amistoso,Amistoso,False,Estadio Monumental UNSA,Arequipa,Peru,2335,home,Ricardo Gareca,Argentina,13/06/2017
+M0611,Bolivia,CONMEBOL,2,1,2,1,W,,W,FIFA World Cup Qualifiers 2018,FIFA World Cup Qualifiers,True,Estadio Monumental U,Lima,Peru,154,home,Ricardo Gareca,Argentina,31/08/2017
+M0612,Ecuador,CONMEBOL,2,1,2,1,W,,W,FIFA World Cup Qualifiers 2018,FIFA World Cup Qualifiers,True,Estadio Olímpico Atahualpa,Quito,Ecuador,2850,away,Ricardo Gareca,Argentina,05/09/2017
+M0613,Argentina,CONMEBOL,0,0,0,0,D,,D,FIFA World Cup Qualifiers 2018,FIFA World Cup Qualifiers,True,La Bombonera,Buenos Aires,Argentina,25,away,Ricardo Gareca,Argentina,05/10/2017
+M0614,Colombia,CONMEBOL,1,1,1,1,D,,D,FIFA World Cup Qualifiers 2018,FIFA World Cup Qualifiers,True,Estadio Nacional de Perú,Lima,Peru,154,home,Ricardo Gareca,Argentina,10/10/2017
+M0615,New Zealand,OFC,0,0,0,0,D,,D,FIFA World Cup Qualifiers 2018 - Playoffs,FIFA World Cup Qualifiers - Playoffs,True,Westpac Stadium,Wellington,New Zealand,1,away,Ricardo Gareca,Argentina,11/11/2017
+M0616,New Zealand,OFC,2,0,2,0,W,,W,FIFA World Cup Qualifiers 2018 - Playoffs,FIFA World Cup Qualifiers - Playoffs,True,Estadio Nacional de Perú,Lima,Peru,154,home,Ricardo Gareca,Argentina,15/11/2017
+M0617,Croatia,UEFA,2,0,2,0,W,,W,Amistoso,Amistoso,False,Hard Rock Stadium,Miami,United States,2,neutral,Ricardo Gareca,Argentina,23/03/2018
+M0618,Iceland,UEFA,3,1,3,1,W,,W,Amistoso,Amistoso,False,Red Bull Arena,Harrison,United States,6,neutral,Ricardo Gareca,Argentina,27/03/2018
+M0619,Scotland,UEFA,2,0,2,0,W,,W,Amistoso,Amistoso,False,Estadio Nacional de Perú,Lima,Peru,154,home,Ricardo Gareca,Argentina,29/05/2018
+M0620,Saudi Arabia,AFC,3,0,3,0,W,,W,Amistoso,Amistoso,False,Kybunpark,St. Gallen,Switzerland,675,neutral,Ricardo Gareca,Argentina,03/06/2018
+M0621,Sweden,UEFA,0,0,0,0,D,,D,Amistoso,Amistoso,False,Nya Ullevi,Göteborg,Sweden,12,away,Ricardo Gareca,Argentina,09/06/2018
+M0622,Denmark,UEFA,0,1,0,1,L,,L,FIFA World Cup 2018,FIFA World Cup,True,Mordovia Arena,Saransk,Russia,160,neutral,Ricardo Gareca,Argentina,16/06/2018
+M0623,France,UEFA,0,1,0,1,L,,L,FIFA World Cup 2018,FIFA World Cup,True,Yekaterinburg Arena,Yekaterinburg,Russia,237,neutral,Ricardo Gareca,Argentina,21/06/2018
+M0624,Australia,AFC,2,0,2,0,W,,W,FIFA World Cup 2018,FIFA World Cup,True,Fisht Stadium,Sochi,Russia,65,neutral,Ricardo Gareca,Argentina,26/06/2018
+M0625,Netherlands,UEFA,1,2,1,2,L,,L,Amistoso,Amistoso,False,Johan Cruyff Arena,Amsterdam,Netherlands,-2,away,Ricardo Gareca,Argentina,06/09/2018
+M0626,Germany,UEFA,1,2,1,2,L,,L,Amistoso,Amistoso,False,PreZero Arena,Sinsheim,Germany,154,away,Ricardo Gareca,Argentina,09/09/2018
+M0627,Chile,CONMEBOL,3,0,3,0,W,,W,Amistoso,Amistoso,False,Hard Rock Stadium,Miami,United States,2,neutral,Ricardo Gareca,Argentina,12/10/2018
+M0628,United States,CONCACAF,1,1,1,1,D,,D,Amistoso,Amistoso,False,Pratt & Whitney Stadium at Rentschler Field,Hartford,United States,18,away,Ricardo Gareca,Argentina,16/10/2018
+M0629,Ecuador,CONMEBOL,0,2,0,2,L,,L,Amistoso,Amistoso,False,Estadio Nacional de Perú,Lima,Peru,154,home,Ricardo Gareca,Argentina,15/11/2018
+M0630,Costa Rica,CONCACAF,2,3,2,3,L,,L,Amistoso,Amistoso,False,Estadio Monumental UNSA,Arequipa,Peru,2335,home,Ricardo Gareca,Argentina,20/11/2018
+M0631,Paraguay,CONMEBOL,1,0,1,0,W,,W,Amistoso,Amistoso,False,Red Bull Arena,Harrison,United States,6,neutral,Ricardo Gareca,Argentina,22/03/2019
+M0632,El Salvador,CONCACAF,0,2,0,2,L,,L,Amistoso,Amistoso,False,RFK Stadium,Washington D.C.,United States,72,neutral,Ricardo Gareca,Argentina,26/03/2019
+M0633,Costa Rica,CONCACAF,1,0,1,0,W,,W,Amistoso,Amistoso,False,Estadio Monumental U,Lima,Peru,154,home,Ricardo Gareca,Argentina,05/06/2019
+M0634,Colombia,CONMEBOL,0,3,0,3,L,,L,Amistoso,Amistoso,False,Estadio Monumental U,Lima,Peru,154,home,Ricardo Gareca,Argentina,09/06/2019
+M0635,Venezuela,CONMEBOL,0,0,0,0,D,,D,Copa América 2019,Copa América/Sudamericano,True,Arena do Grêmio,Porto Alegre,Brazil,10,neutral,Ricardo Gareca,Argentina,15/06/2019
+M0636,Bolivia,CONMEBOL,3,1,3,1,W,,W,Copa América 2019,Copa América/Sudamericano,True,Estádio do Maracanã,Rio de Janeiro,Brazil,11,neutral,Ricardo Gareca,Argentina,18/06/2019
+M0637,Brazil,CONMEBOL,0,5,0,5,L,,L,Copa América 2019,Copa América/Sudamericano,True,Arena Corinthians,Sao Paulo,Brazil,772,away,Ricardo Gareca,Argentina,22/06/2019
+M0638,Uruguay,CONMEBOL,0,0,0,0,D,W,W,Copa América 2019,Copa América/Sudamericano,True,Arena Fonte Nova,Salvador de Bahia,Brazil,8,neutral,Ricardo Gareca,Argentina,29/06/2019
+M0639,Chile,CONMEBOL,3,0,3,0,W,,W,Copa América 2019,Copa América/Sudamericano,True,Arena do Grêmio,Porto Alegre,Brazil,10,neutral,Ricardo Gareca,Argentina,03/07/2019
+M0640,Brazil,CONMEBOL,1,3,1,3,L,,L,Copa América 2019,Copa América/Sudamericano,True,Estádio do Maracanã,Rio de Janeiro,Brazil,11,away,Ricardo Gareca,Argentina,07/07/2019
+M0641,Ecuador,CONMEBOL,0,1,0,1,L,,L,Amistoso,Amistoso,False,Red Bull Arena,Harrison,United States,6,neutral,Ricardo Gareca,Argentina,05/09/2019
+M0642,Brazil,CONMEBOL,1,0,1,0,W,,W,Amistoso,Amistoso,False,Los Angeles Memorial Coliseum,Los Angeles,United States,93,neutral,Ricardo Gareca,Argentina,10/09/2019
+M0643,Uruguay,CONMEBOL,0,1,0,1,L,,L,Amistoso,Amistoso,False,Estadio Centenario (Montevideo),Montevideo,Uruguay,43,away,Ricardo Gareca,Argentina,11/10/2019
+M0644,Uruguay,CONMEBOL,1,1,1,1,D,,D,Amistoso,Amistoso,False,Estadio Nacional de Perú,Lima,Peru,154,home,Ricardo Gareca,Argentina,15/10/2019
+M0645,Colombia,CONMEBOL,0,1,0,1,L,,L,Amistoso,Amistoso,False,Hard Rock Stadium,Miami,United States,2,neutral,Ricardo Gareca,Argentina,15/11/2019
+M0646,Paraguay,CONMEBOL,2,2,2,2,D,,D,FIFA World Cup Qualifiers 2022,FIFA World Cup Qualifiers,True,Estadio Defensores del Chaco,Asuncion,Paraguay,89,away,Ricardo Gareca,Argentina,08/10/2020
+M0647,Brazil,CONMEBOL,2,4,2,4,L,,L,FIFA World Cup Qualifiers 2022,FIFA World Cup Qualifiers,True,Estadio Nacional de Perú,Lima,Peru,154,home,Ricardo Gareca,Argentina,13/10/2020
+M0648,Chile,CONMEBOL,0,2,0,2,L,,L,FIFA World Cup Qualifiers 2022,FIFA World Cup Qualifiers,True,Estadio Nacional de Chile,Santiago,Chile,520,away,Ricardo Gareca,Argentina,13/11/2020
+M0649,Argentina,CONMEBOL,0,2,0,2,L,,L,FIFA World Cup Qualifiers 2022,FIFA World Cup Qualifiers,True,Estadio Nacional de Perú,Lima,Peru,154,home,Ricardo Gareca,Argentina,17/11/2020
+M0650,Colombia,CONMEBOL,0,3,0,3,L,,L,FIFA World Cup Qualifiers 2022,FIFA World Cup Qualifiers,True,Estadio Nacional de Perú,Lima,Peru,154,home,Ricardo Gareca,Argentina,03/06/2021
+M0651,Ecuador,CONMEBOL,2,1,2,1,W,,W,FIFA World Cup Qualifiers 2022,FIFA World Cup Qualifiers,True,Estadio Rodrigo Paz Delgado,Quito,Ecuador,2850,away,Ricardo Gareca,Argentina,08/06/2021
+M0652,Brazil,CONMEBOL,0,4,0,4,L,,L,Copa América 2021,Copa América/Sudamericano,True,Estádio Nilton Santos,Rio de Janeiro,Brazil,11,away,Ricardo Gareca,Argentina,17/06/2021
+M0653,Colombia,CONMEBOL,2,1,2,1,W,,W,Copa América 2021,Copa América/Sudamericano,True,Estádio Olímpico Pedro Ludovico Teixeira,Goiania,Brazil,749,neutral,Ricardo Gareca,Argentina,20/06/2021
+M0654,Ecuador,CONMEBOL,2,2,2,2,D,,D,Copa América 2021,Copa América/Sudamericano,True,Estádio Olímpico Pedro Ludovico Teixeira,Goiania,Brazil,749,neutral,Ricardo Gareca,Argentina,23/06/2021
+M0655,Venezuela,CONMEBOL,1,0,1,0,W,,W,Copa América 2021,Copa América/Sudamericano,True,Estádio Nacional Mané Garrincha,Brasilia,Brazil,1171,neutral,Ricardo Gareca,Argentina,27/06/2021
+M0656,Paraguay,CONMEBOL,3,3,3,3,D,W,W,Copa América 2021,Copa América/Sudamericano,True,Estádio Olímpico Pedro Ludovico Teixeira,Goiania,Brazil,749,neutral,Ricardo Gareca,Argentina,02/07/2021
+M0657,Brazil,CONMEBOL,0,1,0,1,L,,L,Copa América 2021,Copa América/Sudamericano,True,Estádio Nilton Santos,Rio de Janeiro,Brazil,11,away,Ricardo Gareca,Argentina,05/07/2021
+M0658,Colombia,CONMEBOL,2,3,2,3,L,,L,Copa América 2021,Copa América/Sudamericano,True,Estádio Nacional Mané Garrincha,Brasilia,Brazil,1171,neutral,Ricardo Gareca,Argentina,09/07/2021
+M0659,Uruguay,CONMEBOL,1,1,1,1,D,,D,FIFA World Cup Qualifiers 2022,FIFA World Cup Qualifiers,True,Estadio Nacional de Perú,Lima,Peru,154,home,Ricardo Gareca,Argentina,02/09/2021
+M0660,Venezuela,CONMEBOL,1,0,1,0,W,,W,FIFA World Cup Qualifiers 2022,FIFA World Cup Qualifiers,True,Estadio Nacional de Perú,Lima,Peru,154,home,Ricardo Gareca,Argentina,05/09/2021
+M0661,Brazil,CONMEBOL,0,2,0,2,L,,L,FIFA World Cup Qualifiers 2022,FIFA World Cup Qualifiers,True,Arena de Pernambuco,Recife,Brazil,4,away,Ricardo Gareca,Argentina,09/09/2021
+M0662,Chile,CONMEBOL,2,0,2,0,W,,W,FIFA World Cup Qualifiers 2022,FIFA World Cup Qualifiers,True,Estadio Nacional de Perú,Lima,Peru,154,home,Ricardo Gareca,Argentina,07/10/2021
+M0663,Bolivia,CONMEBOL,0,1,0,1,L,,L,FIFA World Cup Qualifiers 2022,FIFA World Cup Qualifiers,True,Estadio Hernando Siles,La Paz,Bolivia,3625,away,Ricardo Gareca,Argentina,10/10/2021
+M0664,Argentina,CONMEBOL,0,1,0,1,L,,L,FIFA World Cup Qualifiers 2022,FIFA World Cup Qualifiers,True,Estadio Monumental Antonio Vespucio Liberti,Buenos Aires,Argentina,25,away,Ricardo Gareca,Argentina,14/10/2021
+M0665,Bolivia,CONMEBOL,3,0,3,0,W,,W,FIFA World Cup Qualifiers 2022,FIFA World Cup Qualifiers,True,Estadio Nacional de Perú,Lima,Peru,154,home,Ricardo Gareca,Argentina,11/11/2021
+M0666,Venezuela,CONMEBOL,2,1,2,1,W,,W,FIFA World Cup Qualifiers 2022,FIFA World Cup Qualifiers,True,Estadio Olímpico UCV,Caracas,Venezuela,1037,away,Ricardo Gareca,Argentina,16/11/2021
+M0667,Panama,CONCACAF,1,1,1,1,D,,D,Amistoso,Amistoso,False,Estadio Nacional de Perú,Lima,Peru,154,home,Ricardo Gareca,Argentina,16/01/2022
+M0668,Jamaica,CONCACAF,3,0,3,0,W,,W,Amistoso,Amistoso,False,Estadio Nacional de Perú,Lima,Peru,154,home,Ricardo Gareca,Argentina,20/01/2022
+M0669,Colombia,CONMEBOL,1,0,1,0,W,,W,FIFA World Cup Qualifiers 2022,FIFA World Cup Qualifiers,True,Estadio Metropolitano de Barranquilla,Barranquilla,Colombia,18,away,Ricardo Gareca,Argentina,28/01/2022
+M0670,Ecuador,CONMEBOL,1,1,1,1,D,,D,FIFA World Cup Qualifiers 2022,FIFA World Cup Qualifiers,True,Estadio Nacional de Perú,Lima,Peru,154,home,Ricardo Gareca,Argentina,01/02/2022
+M0671,Uruguay,CONMEBOL,0,1,0,1,L,,L,FIFA World Cup Qualifiers 2022,FIFA World Cup Qualifiers,True,Estadio Centenario (Montevideo),Montevideo,Uruguay,43,away,Ricardo Gareca,Argentina,24/03/2022
+M0672,Paraguay,CONMEBOL,2,0,2,0,W,,W,FIFA World Cup Qualifiers 2022,FIFA World Cup Qualifiers,True,Estadio Nacional de Perú,Lima,Peru,154,home,Ricardo Gareca,Argentina,29/03/2022
+M0673,New Zealand,OFC,1,0,1,0,W,,W,Amistoso,Amistoso,False,Estadio Cornellà-El Prat,Barcelona,Spain,13,neutral,Ricardo Gareca,Argentina,05/06/2022
+M0674,Australia,AFC,0,0,0,0,D,L,L,FIFA World Cup Qualifiers 2022 - Playoffs,FIFA World Cup Qualifiers - Playoffs,True,Ahmad Bin Ali Stadium,Al-Rayyan,Qatar,31,neutral,Ricardo Gareca,Argentina,13/06/2022
+M0675,Mexico,CONCACAF,0,1,0,1,L,,L,Amistoso,Amistoso,False,Rose Bowl Stadium,Pasadena,United States,263,neutral,Juan Reynoso,Peru,24/09/2022
+M0676,El Salvador,CONCACAF,4,1,4,1,W,,W,Amistoso,Amistoso,False,Audi Field,Washington D.C.,United States,72,neutral,Juan Reynoso,Peru,27/09/2022
+M0677,Paraguay,CONMEBOL,1,0,1,0,W,,W,Amistoso,Amistoso,False,Estadio Monumental U,Lima,Peru,154,home,Juan Reynoso,Peru,16/11/2022
+M0678,Bolivia,CONMEBOL,1,0,1,0,W,,W,Amistoso,Amistoso,False,Estadio Monumental UNSA,Arequipa,Peru,2335,home,Juan Reynoso,Peru,19/11/2022
+M0679,Germany,UEFA,0,2,0,2,L,,L,Amistoso,Amistoso,False,Mewa Arena,Mainz,Germany,88,away,Juan Reynoso,Peru,25/03/2023
+M0680,Morocco,CAF,0,0,0,0,D,,D,Amistoso,Amistoso,False,Estadio Cívitas Metropolitano,Madrid,Spain,657,neutral,Juan Reynoso,Peru,28/03/2023
+M0681,South Korea,AFC,1,0,1,0,W,,W,Amistoso,Amistoso,False,Asiad Stadium,Busan,South Korea,30,away,Juan Reynoso,Peru,16/06/2023
+M0682,Japan,AFC,1,4,1,4,L,,L,Amistoso,Amistoso,False,Panasonic Suita,Osaka,Japan,20,away,Juan Reynoso,Peru,20/06/2023
+M0683,Paraguay,CONMEBOL,0,0,0,0,D,,D,FIFA World Cup Qualifiers 2026,FIFA World Cup Qualifiers,True,Estadio Antonio Aranda,Ciudad del Este,Paraguay,185,away,Juan Reynoso,Peru,07/09/2023
+M0684,Brazil,CONMEBOL,0,1,0,1,L,,L,FIFA World Cup Qualifiers 2026,FIFA World Cup Qualifiers,True,Estadio Nacional de Perú,Lima,Peru,154,home,Juan Reynoso,Peru,12/09/2023
+M0685,Chile,CONMEBOL,0,2,0,2,L,,L,FIFA World Cup Qualifiers 2026,FIFA World Cup Qualifiers,True,Estadio Monumental David Arellano,Santiago,Chile,520,away,Juan Reynoso,Peru,12/10/2023
+M0686,Argentina,CONMEBOL,0,2,0,2,L,,L,FIFA World Cup Qualifiers 2026,FIFA World Cup Qualifiers,True,Estadio Nacional de Perú,Lima,Peru,154,home,Juan Reynoso,Peru,17/10/2023
+M0687,Bolivia,CONMEBOL,0,2,0,2,L,,L,FIFA World Cup Qualifiers 2026,FIFA World Cup Qualifiers,True,Estadio Hernando Siles,La Paz,Bolivia,3625,away,Juan Reynoso,Peru,16/11/2023
+M0688,Venezuela,CONMEBOL,1,1,1,1,D,,D,FIFA World Cup Qualifiers 2026,FIFA World Cup Qualifiers,True,Estadio Nacional de Perú,Lima,Peru,154,home,Juan Reynoso,Peru,21/11/2023
+M0689,Nicaragua,CONCACAF,2,0,2,0,W,,W,Amistoso,Amistoso,False,Estadio Alejandro Villanueva,Lima,Peru,154,home,Jorge Fossati,Uruguay,22/03/2024
+M0690,Dominican Republic,CONCACAF,4,1,4,1,W,,W,Amistoso,Amistoso,False,Estadio Monumental U,Lima,Peru,154,home,Jorge Fossati,Uruguay,26/03/2024
+M0691,Paraguay,CONMEBOL,0,0,0,0,D,,D,Amistoso,Amistoso,False,Estadio Monumental U,Lima,Peru,154,home,Jorge Fossati,Uruguay,07/06/2024
+M0692,El Salvador,CONCACAF,1,0,1,0,W,,W,Amistoso,Amistoso,False,Subaru Park,Chester,United States,21,neutral,Jorge Fossati,Uruguay,14/06/2024
+M0693,Chile,CONMEBOL,0,0,0,0,D,,D,Copa América 2024,Copa América/Sudamericano,True,AT&T Stadium,Arlington,United States,184,neutral,Jorge Fossati,Uruguay,21/06/2024
+M0694,Canada,CONCACAF,0,1,0,1,L,,L,Copa América 2024,Copa América/Sudamericano,True,Children's Mercy Park,Kansas City,United States,265,neutral,Jorge Fossati,Uruguay,25/06/2024
+M0695,Argentina,CONMEBOL,0,2,0,2,L,,L,Copa América 2024,Copa América/Sudamericano,True,Hard Rock Stadium,Miami,United States,2,neutral,Jorge Fossati,Uruguay,29/06/2024
